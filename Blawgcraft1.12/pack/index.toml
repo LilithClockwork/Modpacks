@@ -56,6 +56,16 @@ hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
 metafile = true
 
 [[files]]
+file = "mods/rustic-thaumaturgy.pw.toml"
+hash = "d25c9c442f29c9cebdf8feac723be7b700d78ec64a1a06515d0e1b1928ee4674"
+metafile = true
+
+[[files]]
+file = "mods/rustic.pw.toml"
+hash = "44c607417a29295c8b6b90d08a9274e8acdc84b201d44d0c1ec424f84a10d9e3"
+metafile = true
+
+[[files]]
 file = "mods/thaumcraft-integration.pw.toml"
 hash = "5e6683ece9afb69993048212d26b71ba1b5b8ad8ea70cbf138bdf86b3cc59dce"
 metafile = true
