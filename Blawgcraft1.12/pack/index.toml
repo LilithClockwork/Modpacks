@@ -111,6 +111,11 @@ hash = "40aa8b9cc43962ca41b4066e5438b74f6b5c1c490ae31070990170e595c76cc1"
 metafile = true
 
 [[files]]
+file = "mods/natural-pledge.pw.toml"
+hash = "137a6ccac31d56b11191c0b1682dad66dd2752bd20724af28c1c42c00bc58570"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
 metafile = true
