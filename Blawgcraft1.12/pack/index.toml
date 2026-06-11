@@ -36,6 +36,11 @@ hash = "7e83c30351673c4e992a3894c34b49c9cd9ef585ddf6ff21d5f10c05255b7638"
 metafile = true
 
 [[files]]
+file = "mods/embers-rekindled.pw.toml"
+hash = "fda80353c1f174c3060d7c162670e7337d5ffeb41654039242b63eb392b7100c"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "49cfa6cc9199acf8160d8d4d5c7c0be5f6b5ac2d3e113a7d1f27a91fb237fd9c"
 metafile = true
@@ -61,6 +66,16 @@ hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
 metafile = true
 
 [[files]]
+file = "mods/mystical-gears.pw.toml"
+hash = "6881d3001690f7e7f4c4bb2b06779600fde0c82ec1202a591220c43e476a04b3"
+metafile = true
+
+[[files]]
+file = "mods/mysticalmechanics.pw.toml"
+hash = "40aa8b9cc43962ca41b4066e5438b74f6b5c1c490ae31070990170e595c76cc1"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
 metafile = true
@@ -78,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/rustic.pw.toml"
 hash = "44c607417a29295c8b6b90d08a9274e8acdc84b201d44d0c1ec424f84a10d9e3"
+metafile = true
+
+[[files]]
+file = "mods/soot.pw.toml"
+hash = "f8984110e5497ce682635d2ec0096bd2412287cb16e416685e3a4a8d87f8b58e"
 metafile = true
 
 [[files]]
