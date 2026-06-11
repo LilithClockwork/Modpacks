@@ -6,6 +6,11 @@ hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "c9711625615d000b33b2c8d2136cefb187933cdd2cfe798a6bcbc3d888cf051d"
+metafile = true
+
+[[files]]
 file = "mods/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "49cfa6cc9199acf8160d8d4d5c7c0be5f6b5ac2d3e113a7d1f27a91fb237fd9c"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-energistics-jee.pw.toml"
+hash = "268c3eecd93e89e0afb4dbc4a5100042903f8efdff7c75b32ecceed7845d7151"
 metafile = true
 
 [[files]]
@@ -63,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/thaumic-augmentation.pw.toml"
 hash = "7f3efb3e6ba215116c810f7239847a941961db13b6d0582eebc8e9f360c344ee"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-energistics.pw.toml"
+hash = "66d7313d4759496e755f44db0b02e299e408ce70cfc83f4292328d814951b304"
 metafile = true
 
 [[files]]
