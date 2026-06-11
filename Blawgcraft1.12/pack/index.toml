@@ -206,6 +206,16 @@ hash = "52dc99469ff23aa1f25d0c363f4bd19e5bb0146b29ccaba359e7d17095dac871"
 metafile = true
 
 [[files]]
+file = "mods/witchery-companion.pw.toml"
+hash = "6170ba6a0d6799830fffb27b8339a49719e0f0cf8288c980ef459d22b243c82e"
+metafile = true
+
+[[files]]
+file = "mods/witchery-resurrected.pw.toml"
+hash = "64a88574f7cdc5b0a13fdc5110b10418ceca46c2446443b2893d86ddc75fda59"
+metafile = true
+
+[[files]]
 file = "mods/xaerolib.pw.toml"
 hash = "058b2ae67e177129383e19129a6d1e2ad9f9e506751cdbb985a13785bbcf4b31"
 metafile = true
