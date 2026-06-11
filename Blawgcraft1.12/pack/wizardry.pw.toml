@@ -1,0 +1,13 @@
+name = "Wizardry"
+filename = "ModPack-1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef614594286503f8685de64eccf722af5f764ec6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3111606
+project-id = 419961

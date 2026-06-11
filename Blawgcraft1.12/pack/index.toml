@@ -66,6 +66,11 @@ hash = "268c3eecd93e89e0afb4dbc4a5100042903f8efdff7c75b32ecceed7845d7151"
 metafile = true
 
 [[files]]
+file = "mods/librarianlib.pw.toml"
+hash = "c09ef7a87aaa6c9db80818c57236f08265aaf43b66177f138a0ae69b8c776893"
+metafile = true
+
+[[files]]
 file = "mods/libvulpes.pw.toml"
 hash = "09ddaa6cba7a9c86e7429492deb3ef0b8def5a8f10234a5f2b50173789574d01"
 metafile = true
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/rustic.pw.toml"
 hash = "44c607417a29295c8b6b90d08a9274e8acdc84b201d44d0c1ec424f84a10d9e3"
+metafile = true
+
+[[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
@@ -178,4 +188,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "9ae39c0101ba5269df2d95097551bef5e8f7cf9f567781c23ea95a4baa0ee534"
+metafile = true
+
+[[files]]
+file = "wizardry.pw.toml"
+hash = "7b8f98811037f8efd6caf71cd56277e0e8250efe3ef7cb0770fd128d699b4ae3"
 metafile = true
