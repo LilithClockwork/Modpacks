@@ -56,6 +56,11 @@ hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
 metafile = true
 
 [[files]]
+file = "mods/opencomputers.pw.toml"
+hash = "8dea8c278137b0f42a815734c4b3a338ad18ea76e2ca08623ad3c332e5127eb5"
+metafile = true
+
+[[files]]
 file = "mods/rustic-thaumaturgy.pw.toml"
 hash = "d25c9c442f29c9cebdf8feac723be7b700d78ec64a1a06515d0e1b1928ee4674"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/thaumic-jei.pw.toml"
 hash = "3dcef794ba03565241c47808178e96d5d8db82d4a9659d2a340fd3966ac107a1"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-periphery.pw.toml"
+hash = "53cdf49c85206b55844da3156cd38293a9df27d01ea26f773779544125a0ea63"
 metafile = true
 
 [[files]]
