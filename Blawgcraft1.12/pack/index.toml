@@ -9,3 +9,18 @@ metafile = true
 file = "mods/jei.pw.toml"
 hash = "49cfa6cc9199acf8160d8d4d5c7c0be5f6b5ac2d3e113a7d1f27a91fb237fd9c"
 metafile = true
+
+[[files]]
+file = "mods/xaerolib.pw.toml"
+hash = "058b2ae67e177129383e19129a6d1e2ad9f9e506751cdbb985a13785bbcf4b31"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "f0f2920de8d19ded08590e726d3aa52e76eb84bbe213ee484837bed2567271bc"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "9ae39c0101ba5269df2d95097551bef5e8f7cf9f567781c23ea95a4baa0ee534"
+metafile = true
