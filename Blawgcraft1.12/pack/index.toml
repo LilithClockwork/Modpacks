@@ -26,6 +26,11 @@ hash = "49cfa6cc9199acf8160d8d4d5c7c0be5f6b5ac2d3e113a7d1f27a91fb237fd9c"
 metafile = true
 
 [[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "ad355300f200ceabaa960dcef945cdf94195f8944dbe42ada2db41e153f209dc"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
 metafile = true
@@ -36,8 +41,38 @@ hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
 metafile = true
 
 [[files]]
+file = "mods/thaumcraft-integration.pw.toml"
+hash = "5e6683ece9afb69993048212d26b71ba1b5b8ad8ea70cbf138bdf86b3cc59dce"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft-inventory-scanning.pw.toml"
+hash = "2a4f25616f9e5c2f1b84c833c392cc3b6f4fd4797ce30ca3cf8fbbb934c1bdbc"
+metafile = true
+
+[[files]]
 file = "mods/thaumcraft.pw.toml"
 hash = "642fb95aa39530f0b662148d8f5357ea7cfc48312216eced5251d7337f80c9cd"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraftfix.pw.toml"
+hash = "ecb63994fed2f714d57570be89bcbcc86e11593053ed0cf368b1b5a5c03ed415"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-augmentation.pw.toml"
+hash = "7f3efb3e6ba215116c810f7239847a941961db13b6d0582eebc8e9f360c344ee"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-jei.pw.toml"
+hash = "3dcef794ba03565241c47808178e96d5d8db82d4a9659d2a340fd3966ac107a1"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-tinkerer-unofficial.pw.toml"
+hash = "52dc99469ff23aa1f25d0c363f4bd19e5bb0146b29ccaba359e7d17095dac871"
 metafile = true
 
 [[files]]
