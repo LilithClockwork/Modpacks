@@ -156,6 +156,11 @@ hash = "f8984110e5497ce682635d2ec0096bd2412287cb16e416685e3a4a8d87f8b58e"
 metafile = true
 
 [[files]]
+file = "mods/stargate-network.pw.toml"
+hash = "5eb4ceb8627e9a020eaa9ad51826240f81d198b8b1c0fe1895604b5a48035a01"
+metafile = true
+
+[[files]]
 file = "mods/thaumcraft-integration.pw.toml"
 hash = "5e6683ece9afb69993048212d26b71ba1b5b8ad8ea70cbf138bdf86b3cc59dce"
 metafile = true
