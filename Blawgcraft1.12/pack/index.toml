@@ -56,6 +56,11 @@ hash = "fda80353c1f174c3060d7c162670e7337d5ffeb41654039242b63eb392b7100c"
 metafile = true
 
 [[files]]
+file = "mods/extra-utilities.pw.toml"
+hash = "751db9d136970e9b4744ce00eea1937644f10710173c82dfde06b373748e5a57"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "49cfa6cc9199acf8160d8d4d5c7c0be5f6b5ac2d3e113a7d1f27a91fb237fd9c"
 metafile = true
