@@ -126,6 +126,11 @@ hash = "46b6fe4b838212d19da58719e4782d0c54689f3cbec148921c41a3297f96caf6"
 metafile = true
 
 [[files]]
+file = "mods/mct-immersive-technology.pw.toml"
+hash = "8a2475418ba406dacadf85f54d3623c1737227018bce273c3528907b5a09699d"
+metafile = true
+
+[[files]]
 file = "mods/mixin-booter.pw.toml"
 hash = "ad355300f200ceabaa960dcef945cdf94195f8944dbe42ada2db41e153f209dc"
 metafile = true
