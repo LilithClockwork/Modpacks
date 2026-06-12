@@ -6,6 +6,11 @@ hash = "e8391cc00c6f79a19b5c7ab7916eb0d06650792c99df56c6d4a6644424a0301b"
 metafile = true
 
 [[files]]
+file = "mods/advanced-smelter.pw.toml"
+hash = "a4feb07854eed01df466e31a4873922d86a2c037fcb3a0271fd7a0cd1560b983"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
 metafile = true
