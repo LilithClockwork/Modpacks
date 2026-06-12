@@ -131,8 +131,8 @@ hash = "268c3eecd93e89e0afb4dbc4a5100042903f8efdff7c75b32ecceed7845d7151"
 metafile = true
 
 [[files]]
-file = "mods/librarianlib.pw.toml"
-hash = "c09ef7a87aaa6c9db80818c57236f08265aaf43b66177f138a0ae69b8c776893"
+file = "mods/librarianlib-continuous.pw.toml"
+hash = "4d1f29cf1402d3f62c0ad05ca3cf2e4aeb1cbdf9ab2176409082550355cee520"
 metafile = true
 
 [[files]]
@@ -181,6 +181,11 @@ hash = "6881d3001690f7e7f4c4bb2b06779600fde0c82ec1202a591220c43e476a04b3"
 metafile = true
 
 [[files]]
+file = "mods/mystical-world.pw.toml"
+hash = "50d4d95c547469c9ea85c452d927ad011293d0471ae0296d1050df95dca627ae"
+metafile = true
+
+[[files]]
 file = "mods/mysticallib.pw.toml"
 hash = "815710af54eb77994c123853e9e665bfc5b4ee325e870c54259a7f9a59fcf21a"
 metafile = true
@@ -206,6 +211,11 @@ hash = "8dea8c278137b0f42a815734c4b3a338ad18ea76e2ca08623ad3c332e5127eb5"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
+metafile = true
+
+[[files]]
 file = "mods/psi.pw.toml"
 hash = "cc7b434e7c2d7269b9835b184ab25c91c16d64195426c5ce37fde18d4c800fd2"
 metafile = true
@@ -218,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/quarrel.pw.toml"
 hash = "b5b02f749dae1f6000530cf24513680e9460973aae7e15424c55aa44037f30e0"
+metafile = true
+
+[[files]]
+file = "mods/redstone-flux.pw.toml"
+hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
 metafile = true
 
 [[files]]
@@ -238,11 +253,6 @@ metafile = true
 [[files]]
 file = "mods/rustic.pw.toml"
 hash = "44c607417a29295c8b6b90d08a9274e8acdc84b201d44d0c1ec424f84a10d9e3"
-metafile = true
-
-[[files]]
-file = "mods/shadowfacts-forgelin.pw.toml"
-hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
