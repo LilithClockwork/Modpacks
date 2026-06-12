@@ -96,6 +96,11 @@ hash = "751db9d136970e9b4744ce00eea1937644f10710173c82dfde06b373748e5a57"
 metafile = true
 
 [[files]]
+file = "mods/forestry-community-edition.pw.toml"
+hash = "d34b3c5793de971465f314cdd5d304aa8d0fc4ee253d3d86aefe3d8b62f3dd7c"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
