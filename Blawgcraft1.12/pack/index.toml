@@ -226,6 +226,11 @@ hash = "64a88574f7cdc5b0a13fdc5110b10418ceca46c2446443b2893d86ddc75fda59"
 metafile = true
 
 [[files]]
+file = "mods/wizardry.pw.toml"
+hash = "7b8f98811037f8efd6caf71cd56277e0e8250efe3ef7cb0770fd128d699b4ae3"
+metafile = true
+
+[[files]]
 file = "mods/xaerolib.pw.toml"
 hash = "058b2ae67e177129383e19129a6d1e2ad9f9e506751cdbb985a13785bbcf4b31"
 metafile = true
@@ -238,9 +243,4 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "9ae39c0101ba5269df2d95097551bef5e8f7cf9f567781c23ea95a4baa0ee534"
-metafile = true
-
-[[files]]
-file = "wizardry.pw.toml"
-hash = "7b8f98811037f8efd6caf71cd56277e0e8250efe3ef7cb0770fd128d699b4ae3"
 metafile = true
