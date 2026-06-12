@@ -136,6 +136,11 @@ hash = "09ddaa6cba7a9c86e7429492deb3ef0b8def5a8f10234a5f2b50173789574d01"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "efef0408c2dd7268131c857073f5ef73d40bad359679b0f8016e1d68c06aab0f"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "46b6fe4b838212d19da58719e4782d0c54689f3cbec148921c41a3297f96caf6"
 metafile = true
