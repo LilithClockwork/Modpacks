@@ -181,6 +181,11 @@ hash = "cc7b434e7c2d7269b9835b184ab25c91c16d64195426c5ce37fde18d4c800fd2"
 metafile = true
 
 [[files]]
+file = "mods/refraction.pw.toml"
+hash = "b8274759f1f40e30460d62255e7a9965e7c97b33812c068ec40da0f2e4aedc90"
+metafile = true
+
+[[files]]
 file = "mods/rustic-thaumaturgy.pw.toml"
 hash = "d25c9c442f29c9cebdf8feac723be7b700d78ec64a1a06515d0e1b1928ee4674"
 metafile = true
