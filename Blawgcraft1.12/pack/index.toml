@@ -311,6 +311,11 @@ hash = "52dc99469ff23aa1f25d0c363f4bd19e5bb0146b29ccaba359e7d17095dac871"
 metafile = true
 
 [[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
+metafile = true
+
+[[files]]
 file = "mods/thermal-dynamics.pw.toml"
 hash = "4379e8df5433332fee2b3c351eaf9d281581cdd3ff4340a4a466e497de8eb41b"
 metafile = true
