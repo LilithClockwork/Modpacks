@@ -186,6 +186,11 @@ hash = "b8274759f1f40e30460d62255e7a9965e7c97b33812c068ec40da0f2e4aedc90"
 metafile = true
 
 [[files]]
+file = "mods/roots.pw.toml"
+hash = "d790d100352ae8091e9b654a06cacaf912c1d75f7d19b69981051ee95f7564ae"
+metafile = true
+
+[[files]]
 file = "mods/rustic-thaumaturgy.pw.toml"
 hash = "d25c9c442f29c9cebdf8feac723be7b700d78ec64a1a06515d0e1b1928ee4674"
 metafile = true
