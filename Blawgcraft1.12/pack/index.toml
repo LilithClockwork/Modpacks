@@ -186,6 +186,11 @@ hash = "cc7b434e7c2d7269b9835b184ab25c91c16d64195426c5ce37fde18d4c800fd2"
 metafile = true
 
 [[files]]
+file = "mods/quarrel.pw.toml"
+hash = "b5b02f749dae1f6000530cf24513680e9460973aae7e15424c55aa44037f30e0"
+metafile = true
+
+[[files]]
 file = "mods/refraction.pw.toml"
 hash = "b8274759f1f40e30460d62255e7a9965e7c97b33812c068ec40da0f2e4aedc90"
 metafile = true
