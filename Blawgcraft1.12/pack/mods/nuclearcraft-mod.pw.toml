@@ -1,0 +1,13 @@
+name = "NuclearCraft"
+filename = "nuclearcraft-1.12.2-2.19c.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1029408b188cdfff625e4bf9e7f91a00dde2ea0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8213196
+project-id = 226254
