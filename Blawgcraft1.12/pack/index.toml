@@ -261,6 +261,11 @@ hash = "31b6133aafee1e7d53bd2f267ef7b32c67aed52a2c7ab8ccce3c7856e326cf8b"
 metafile = true
 
 [[files]]
+file = "mods/rftools.pw.toml"
+hash = "57b7614b66288b49d00c60b29f3997676353229262a60bbb3a0ae5f60ab34f2b"
+metafile = true
+
+[[files]]
 file = "mods/roots.pw.toml"
 hash = "d790d100352ae8091e9b654a06cacaf912c1d75f7d19b69981051ee95f7564ae"
 metafile = true
