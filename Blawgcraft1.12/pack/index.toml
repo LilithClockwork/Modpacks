@@ -11,6 +11,11 @@ hash = "a4feb07854eed01df466e31a4873922d86a2c037fcb3a0271fd7a0cd1560b983"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
 metafile = true
@@ -389,3 +394,7 @@ metafile = true
 file = "mods/xnet.pw.toml"
 hash = "50cf44513f7e4819aec2a6e5cc350d6665904a37ac10db0547dfbc9457b669c6"
 metafile = true
+
+[[files]]
+file = "scripts/placeholder.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
