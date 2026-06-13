@@ -116,6 +116,11 @@ hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
 
 [[files]]
+file = "mods/inventory-bogosorter.pw.toml"
+hash = "58f72b2d97fe756232592bad8f676897a55016f4f7df3b4d88f96a985c007229"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "49cfa6cc9199acf8160d8d4d5c7c0be5f6b5ac2d3e113a7d1f27a91fb237fd9c"
 metafile = true
@@ -128,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-energistics-jee.pw.toml"
 hash = "268c3eecd93e89e0afb4dbc4a5100042903f8efdff7c75b32ecceed7845d7151"
+metafile = true
+
+[[files]]
+file = "mods/key-binding-patch.pw.toml"
+hash = "cea0823d3b224e7bfee140dce362f0321cfb689fa8aaf9d7095ccd244f2051b4"
 metafile = true
 
 [[files]]
@@ -163,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/modtweaker.pw.toml"
 hash = "bb04dbefdc38cff1d0a015347bc8d9e0b2a6f8a347e1ad3e3ed5909bbc932777"
+metafile = true
+
+[[files]]
+file = "mods/modularui.pw.toml"
+hash = "027a9eae197ae58909414605234f08d9131d0d9beb1bbb35a1c6404578f32cff"
 metafile = true
 
 [[files]]
