@@ -82,7 +82,7 @@ hash = "1f6dbcf7857f2481c5fdab362596705da5cc0d0d07eb8ee2d85bfae1c0f241f0"
 
 [[files]]
 file = "config/advRocketry/advancedRocketry.cfg"
-hash = "e9728db4535f703aa822e92f396b42936516e609af4913af28186718c51d5138"
+hash = "f9c4c42751471827d4aebbe4177754ff05a462082f2b1a55736b7cc3b7e8e8ab"
 
 [[files]]
 file = "config/advRocketry/asteroidConfig.xml"
@@ -238,7 +238,7 @@ hash = "cba133ba6ce78679471b1d29260c126f5b3d357d751f3b3ff73d9fc1790f8130"
 
 [[files]]
 file = "config/cofh/world/01_thermalfoundation_ores.json"
-hash = "d9a45850f874a6956c68c5982b0ca3f9adb433dd7c79541c6eaabd92b84822c4"
+hash = "9ef78de2c056bf9f9126a0ba20420d87488d08a6fcb7c1ed8c2962da2c37795e"
 
 [[files]]
 file = "config/cofh/world/02_thermalfoundation_oil.json"
@@ -262,7 +262,7 @@ hash = "2e96bfca7acd8941dd020349e709954ba241feeea6f20d6208b32c0a1aa2ea27"
 
 [[files]]
 file = "config/embers.cfg"
-hash = "305e1155d599691914219c41e76dbfe941e7f22480e49eaf6f791de93f71a7ee"
+hash = "8f67d6f00ea5820c418f079dbd872a6dc474c6e3d767cbc8a0a83f02c0e8c2d9"
 
 [[files]]
 file = "config/extrautils2.cfg"
@@ -282,7 +282,7 @@ hash = "8da57464d42c10d6237be3d9e919fec46b977319ff9074357eb95255e3e70b99"
 
 [[files]]
 file = "config/forestry/common.cfg"
-hash = "d6b203480096e0cf81d2c65ab17166c740e52ef77bdba55a5edb16ddf467f04d"
+hash = "07a2b4faaed56b9907dcaa5da2559bef6b663cb27c07b54073e7b377edcfc744"
 
 [[files]]
 file = "config/forestry/crates.cfg"
@@ -334,7 +334,7 @@ hash = "49c314ca28895d8c303d903287acafa0c866a4aa7e45c2bedfe4f19868b33db3"
 
 [[files]]
 file = "config/immersiveengineering.cfg"
-hash = "352c285141ba5b70f7f191c0bdb0037315567914a573e376462a4d428d76b5d5"
+hash = "8483d3983d2561201809d2fa636fbd42fcd38688b7ead9d197f010873a3c769a"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
@@ -394,7 +394,7 @@ hash = "343b076b16e7ae0702381c453dc65809e997a3fe27d92b59feb515ffd8bded55"
 
 [[files]]
 file = "config/mysticalworld.cfg"
-hash = "20f35e0f1a85bbce8fba933a1e192cb9fc9644f7b82e46f085e7dd1f135a29b5"
+hash = "b34e35c989e56382767f3e5384360cce7db39cbc69959e1d4653cd6d655bc4c7"
 
 [[files]]
 file = "config/naturalpledge.cfg"
@@ -506,7 +506,7 @@ hash = "28f8c1935025a619f438b0662f8fa151ec0216c1de84a4c58a469193657aee74"
 
 [[files]]
 file = "config/thaumcraft_graphics.cfg"
-hash = "5177a7cd72d2c5537209d419500f1be0a58501c0e4c4c841b72e27b46a1da939"
+hash = "9a4d08ad8ff9a0c97c7fdbe1eab410c1fdeb6e1eeac75c2d6c3ac116df251a02"
 
 [[files]]
 file = "config/thaumcraft_misc.cfg"
@@ -514,7 +514,7 @@ hash = "12c478270eef3bfe018d4071987a6325619562a2e167aff31809c336156ab4f2"
 
 [[files]]
 file = "config/thaumcraft_world.cfg"
-hash = "fb407272a5b9e59d7f6c1588dd9e87d29ec263e40891f1ff14d0430b2fcace37"
+hash = "b9dff64c9610024e7654b3d75fb48aa3e7053000a916c91a5c1858719ab459ee"
 
 [[files]]
 file = "config/thaumcraftfix.cfg"
