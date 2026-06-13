@@ -76,11 +76,6 @@ hash = "197949c14af1c110c380e62e1cbd735fcb46927a95e6b9d6bc8435646632870d"
 metafile = true
 
 [[files]]
-file = "mods/colouredchat.pw.toml"
-hash = "16c96f6db7e772bc94406b7b3ed73c1b97145d5aff86e13e385a9a71f24dea04"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
 metafile = true
