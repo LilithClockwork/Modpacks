@@ -21,7 +21,5 @@
 - ???
 
 ## Possible additional mods
-- [Random Psideas](https://www.curseforge.com/minecraft/mc-mods/random-psideas)
-	- [Magical Psideas](https://www.curseforge.com/minecraft/texture-packs/magical-psideas) if used with Magical Psi
-- [Magical Psi](https://www.curseforge.com/minecraft/mc-mods/magical-psi)
-	- [Magical Psideas](https://www.curseforge.com/minecraft/texture-packs/magical-psideas) if used with Random Psideas
+- [Magical Psi](https://www.curseforge.com/minecraft/mc-mods/magical-psi) manually, delisted
+	
