@@ -1092,8 +1092,8 @@ hash = "64a88574f7cdc5b0a13fdc5110b10418ceca46c2446443b2893d86ddc75fda59"
 metafile = true
 
 [[files]]
-file = "mods/wizardry.pw.toml"
-hash = "7b8f98811037f8efd6caf71cd56277e0e8250efe3ef7cb0770fd128d699b4ae3"
+file = "mods/wizardry-mod.pw.toml"
+hash = "622ccbd2cddc5cbbededabdd795f425f9716931e643df1eb9c0034ff3f5bec67"
 metafile = true
 
 [[files]]
