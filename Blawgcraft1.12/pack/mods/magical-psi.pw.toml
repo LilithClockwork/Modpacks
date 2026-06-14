@@ -1,0 +1,13 @@
+name = "Magical Psi"
+filename = "MagicalPsi-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db9c31ab6f1f0ee5be3bbbfa70acc859c458f435"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2678409
+project-id = 280893
