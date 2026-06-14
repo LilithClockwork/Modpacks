@@ -821,6 +821,11 @@ hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
 metafile = true
 
 [[files]]
+file = "mods/dynaores.pw.toml"
+hash = "106e088c1d7d112f123ed26e3f72d5a78c4f4178852ca5b18cf0ccf385e299f5"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "8d21de09cd5f0c9cdf43d5b77b7333bfb68fba67e47578d3d46f08e5864f8bd0"
 metafile = true
@@ -866,13 +871,28 @@ hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
 
 [[files]]
+file = "mods/immersive-petroleum.pw.toml"
+hash = "d8088049695195e90a4a4b9d3a12ee8addf6d3df5635afca4ca3403ef93e56ae"
+metafile = true
+
+[[files]]
 file = "mods/immersiveposts.pw.toml"
 hash = "9db816216e6683322c0d3b72f8bce3c71ce97d2be4afb4944bbf31a842b3475c"
 metafile = true
 
 [[files]]
+file = "mods/incorporeal.pw.toml"
+hash = "c038882886b96730f18f5d0460d1c8609e2b728955e25d9a6399043e7b8ab5bf"
+metafile = true
+
+[[files]]
 file = "mods/inventory-bogosorter.pw.toml"
 hash = "58f72b2d97fe756232592bad8f676897a55016f4f7df3b4d88f96a985c007229"
+metafile = true
+
+[[files]]
+file = "mods/jaopca.pw.toml"
+hash = "380cd9e55592ab6175fd47739efb7ce0e282476789a7304344e8014bfb414f93"
 metafile = true
 
 [[files]]
@@ -1123,6 +1143,11 @@ metafile = true
 [[files]]
 file = "mods/wizardry-mod.pw.toml"
 hash = "622ccbd2cddc5cbbededabdd795f425f9716931e643df1eb9c0034ff3f5bec67"
+metafile = true
+
+[[files]]
+file = "mods/wrapup.pw.toml"
+hash = "43ab58d9452c47716b9e1c3ec4753dc287821b2cdaa6cc0e047ec29cdf26877a"
 metafile = true
 
 [[files]]
