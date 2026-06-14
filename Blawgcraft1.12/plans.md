@@ -17,6 +17,9 @@
 - ~~Add `material.Dilithium.name` localizations as AdvRoc doesn't have it for... Some reason?~~
 - ~~Lexia Bosnia~~
 
+## Configs
+- ???
+
 ## Possible additional mods
 - [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
 - [Incorporeal](https://www.curseforge.com/minecraft/mc-mods/incorporeal)
