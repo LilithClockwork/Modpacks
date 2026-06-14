@@ -11,7 +11,16 @@
 - Livingwood to use Greatwood (?)
 - Runic Altar to have Nitor in place of Mana Pearl/Mana Diamond (?)
 - Crucible Bosnia Rune Recipes, lockable behind obtaining one (?)
+
 ## Localizations
 - Rename either AS or Natural Pledge Aquamarine to a more thematically appropriate name (Astral or Wavetouched Aquamarine?)
 - Add `material.Dilithium.name` localizations as AdvRoc doesn't have it for... Some reason?
 - Lexia Bosnia
+
+## Possible additional mods
+- [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
+- [Incorporeal](https://www.curseforge.com/minecraft/mc-mods/incorporeal)
+- [Random Psideas](https://www.curseforge.com/minecraft/mc-mods/random-psideas)
+	- [Magical Psideas](https://www.curseforge.com/minecraft/texture-packs/magical-psideas) if used with Magical Psi
+- [Magical Psi](https://www.curseforge.com/minecraft/mc-mods/magical-psi)
+	- [Magical Psideas](https://www.curseforge.com/minecraft/texture-packs/magical-psideas) if used with Random Psideas
