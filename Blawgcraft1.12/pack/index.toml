@@ -1182,6 +1182,11 @@ hash = "ebbdbac5720517899ba41ee36e75ab25c7ea3eabfd22a3e4f502446effa74f09"
 metafile = true
 
 [[files]]
+file = "resourcepacks/thaummenu.pw.toml"
+hash = "412f8ed45af00951d6f0a236098478a209c9f20a6f0c539f2d293b1c28b37dea"
+metafile = true
+
+[[files]]
 file = "scripts/locfixes.zs"
 hash = "1ca1c988182a4611e4c524e17a1020c134c9b071fdf1d87e60997acefeaf7ede"
 
