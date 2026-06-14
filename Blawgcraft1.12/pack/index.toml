@@ -37,6 +37,10 @@ file = "config/SGCraft/zpm.yml"
 hash = "dc3a3cfc274f4d5f3fa83d34f7da5271c2d19e7c8f438fe75934555834dc4d35"
 
 [[files]]
+file = "config/advRocketry/.asteroidConfig.xml.kate-swp"
+hash = "74b2487833150fafc2768636942a141118d03081c2c739b9cea2a640b2463f45"
+
+[[files]]
 file = "config/advRocketry/Centrifuge.xml"
 hash = "a7b514eb86691e27ae056edb12f6cb8a1efee998de1cb31e3de69bf228bf7734"
 
@@ -959,11 +963,6 @@ metafile = true
 [[files]]
 file = "mods/natural-pledge.pw.toml"
 hash = "137a6ccac31d56b11191c0b1682dad66dd2752bd20724af28c1c42c00bc58570"
-metafile = true
-
-[[files]]
-file = "mods/netherportalfix.pw.toml"
-hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
 metafile = true
 
 [[files]]
