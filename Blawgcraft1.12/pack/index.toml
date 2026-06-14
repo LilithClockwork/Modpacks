@@ -807,6 +807,11 @@ hash = "8268a0441a5da4f2c0df7505f45db738426ab77a1d48024fa9d55d191949ca35"
 metafile = true
 
 [[files]]
+file = "mods/ctm.pw.toml"
+hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
+metafile = true
+
+[[files]]
 file = "mods/embers-rekindled.pw.toml"
 hash = "fda80353c1f174c3060d7c162670e7337d5ffeb41654039242b63eb392b7100c"
 metafile = true
