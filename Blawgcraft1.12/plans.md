@@ -21,11 +21,7 @@
 - ???
 
 ## Possible additional mods
-- [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
-- [Incorporeal](https://www.curseforge.com/minecraft/mc-mods/incorporeal)
 - [Random Psideas](https://www.curseforge.com/minecraft/mc-mods/random-psideas)
 	- [Magical Psideas](https://www.curseforge.com/minecraft/texture-packs/magical-psideas) if used with Magical Psi
 - [Magical Psi](https://www.curseforge.com/minecraft/mc-mods/magical-psi)
 	- [Magical Psideas](https://www.curseforge.com/minecraft/texture-packs/magical-psideas) if used with Random Psideas
-- [JAOPCA](https://www.curseforge.com/minecraft/mc-mods/jaopca)
-- [Dynamic Raw Ores](https://www.curseforge.com/minecraft/mc-mods/dynaores)
