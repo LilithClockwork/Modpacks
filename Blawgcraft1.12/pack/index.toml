@@ -1119,3 +1119,7 @@ metafile = true
 [[files]]
 file = "scripts/locfixes.zs"
 hash = "1ca1c988182a4611e4c524e17a1020c134c9b071fdf1d87e60997acefeaf7ede"
+
+[[files]]
+file = "scripts/steeled.zs"
+hash = "8d86542877ecf58a1f05340456611e98671fb546e6087668404ab166c8610baa"

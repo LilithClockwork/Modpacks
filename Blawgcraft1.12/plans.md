@@ -1,7 +1,7 @@
 # Blawgcraft1.12 plans
 
 ## Recipes
-- Machine frames from thermal to require IE steel
+- ~~Machine frames from thermal to require IE steel~~
 - Aquamarine block fixes
 - Manasteel to require thaumium to create
 - Enchanted Fabric (thaumcraft) to require Mana String (Botania) to make
