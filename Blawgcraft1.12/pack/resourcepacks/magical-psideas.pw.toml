@@ -1,0 +1,13 @@
+name = "Magical PSIdeas"
+filename = "MagicalPsideas.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ae5223583e8fa7c8fe10358a48d08455f23a511"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2777874
+project-id = 339331

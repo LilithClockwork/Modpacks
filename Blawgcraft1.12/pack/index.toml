@@ -1021,6 +1021,11 @@ hash = "b5b02f749dae1f6000530cf24513680e9460973aae7e15424c55aa44037f30e0"
 metafile = true
 
 [[files]]
+file = "mods/random-psideas.pw.toml"
+hash = "7a9a7f79e3e9ccc3f6819ddc11a0de45897cee9022d8adc15d31b428fae45d31"
+metafile = true
+
+[[files]]
 file = "mods/redstone-flux.pw.toml"
 hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
 metafile = true
@@ -1168,6 +1173,11 @@ metafile = true
 [[files]]
 file = "mods/xnet.pw.toml"
 hash = "50cf44513f7e4819aec2a6e5cc350d6665904a37ac10db0547dfbc9457b669c6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/magical-psideas.pw.toml"
+hash = "ebbdbac5720517899ba41ee36e75ab25c7ea3eabfd22a3e4f502446effa74f09"
 metafile = true
 
 [[files]]
