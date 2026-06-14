@@ -1117,5 +1117,5 @@ hash = "50cf44513f7e4819aec2a6e5cc350d6665904a37ac10db0547dfbc9457b669c6"
 metafile = true
 
 [[files]]
-file = "scripts/placeholder.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "scripts/locfixes.zs"
+hash = "1ca1c988182a4611e4c524e17a1020c134c9b071fdf1d87e60997acefeaf7ede"
