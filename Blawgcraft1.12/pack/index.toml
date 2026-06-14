@@ -851,6 +851,11 @@ hash = "839ba004a7efe361012ad9cb26fa8bf11fe839a954dd58d1bfe30dabfcd13b03"
 metafile = true
 
 [[files]]
+file = "mods/had-enough-items.pw.toml"
+hash = "5d262b1e18771e14cc27f46bae7bafed288ac0a8b2fe9b50f0968cfd9ac2fc92"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
@@ -858,11 +863,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-bogosorter.pw.toml"
 hash = "58f72b2d97fe756232592bad8f676897a55016f4f7df3b4d88f96a985c007229"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "49cfa6cc9199acf8160d8d4d5c7c0be5f6b5ac2d3e113a7d1f27a91fb237fd9c"
 metafile = true
 
 [[files]]
