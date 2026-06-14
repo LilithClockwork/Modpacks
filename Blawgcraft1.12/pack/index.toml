@@ -37,10 +37,6 @@ file = "config/SGCraft/zpm.yml"
 hash = "dc3a3cfc274f4d5f3fa83d34f7da5271c2d19e7c8f438fe75934555834dc4d35"
 
 [[files]]
-file = "config/advRocketry/.asteroidConfig.xml.kate-swp"
-hash = "74b2487833150fafc2768636942a141118d03081c2c739b9cea2a640b2463f45"
-
-[[files]]
 file = "config/advRocketry/Centrifuge.xml"
 hash = "a7b514eb86691e27ae056edb12f6cb8a1efee998de1cb31e3de69bf228bf7734"
 
@@ -86,7 +82,7 @@ hash = "1f6dbcf7857f2481c5fdab362596705da5cc0d0d07eb8ee2d85bfae1c0f241f0"
 
 [[files]]
 file = "config/advRocketry/advancedRocketry.cfg"
-hash = "f9c4c42751471827d4aebbe4177754ff05a462082f2b1a55736b7cc3b7e8e8ab"
+hash = "9134ec535a159f6f5775211048ff6c37dd8543d97a29327fa96ed7d7eb9a80a6"
 
 [[files]]
 file = "config/advRocketry/asteroidConfig.xml"
@@ -154,7 +150,7 @@ hash = "1c1eb8a62663e56321cd9c0f2d553b2670e542d0fcad3c7e5db000dfdfb9a24d"
 
 [[files]]
 file = "config/botania.cfg"
-hash = "80010f03e5ba411b5d5cd9d5a432eb6d3bd09b046276dc3d80f191b314ea4e6c"
+hash = "a3d8e55d4634daa23ffeda8303a10c91ec4d6e609537e5ded7b02df6065cc9e7"
 
 [[files]]
 file = "config/botaniajei.cfg"
@@ -274,7 +270,7 @@ hash = "f6ad40a058104f900c06f6a1bb2479fb72286922540ec457f722ea8eba97a5a7"
 
 [[files]]
 file = "config/forestry/apiculture.cfg"
-hash = "84de7289b0cce2a5d29f8a812ed327f075313298c328feaaa8c004da517aa29f"
+hash = "900bcf66c5814e3ca24fa46f46044b1a948e2ed68cc08e3d866174046673164b"
 
 [[files]]
 file = "config/forestry/arboriculture.cfg"
@@ -490,11 +486,11 @@ hash = "c54b712ccbb5c2e9de20ec769ee7649403b68cf48025cd5b14367ccf26dad16b"
 
 [[files]]
 file = "config/rustic.cfg"
-hash = "4b7deb741465f7e40c795341b79dbb8e2243e72a671a119a6ea18f1358afa6e9"
+hash = "c7263c456e0756f27e0016ff5e9ed4d82bf01ac5db52a3e7ca198a15f2790d88"
 
 [[files]]
 file = "config/rusticthaumaturgy.cfg"
-hash = "8fd09b93ed2eacac99e2a4f94cd20a94925b2990fc920d055c19cff63504d168"
+hash = "9adac414a5f426e19f66d87290f9bd17475c1e2b21601822dd784fd9e1bc705f"
 
 [[files]]
 file = "config/sgcraft.cfg"
@@ -514,7 +510,7 @@ hash = "9a4d08ad8ff9a0c97c7fdbe1eab410c1fdeb6e1eeac75c2d6c3ac116df251a02"
 
 [[files]]
 file = "config/thaumcraft_misc.cfg"
-hash = "12c478270eef3bfe018d4071987a6325619562a2e167aff31809c336156ab4f2"
+hash = "da295fa932222961e867530f77f96eda1c711abad1491fac46a7a9d0b69ebe63"
 
 [[files]]
 file = "config/thaumcraft_world.cfg"
@@ -928,6 +924,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "efef0408c2dd7268131c857073f5ef73d40bad359679b0f8016e1d68c06aab0f"
+metafile = true
+
+[[files]]
+file = "mods/magical-psi.pw.toml"
+hash = "623f3f1275a9188e506089b19ce2ecfc2113aa838e5a436af2d0ac6dc2efe029"
 metafile = true
 
 [[files]]
