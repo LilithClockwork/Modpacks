@@ -762,6 +762,11 @@ hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
 
 [[files]]
+file = "mods/bibliocraft.pw.toml"
+hash = "ab4781ab6b6f14b93eff468b16cf68a8dc181d3f088b952888dbace39ec6f9bc"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "96de7b241688c8771621d9ef3dcc4eb565389739196334bea745043375dbc03a"
 metafile = true
