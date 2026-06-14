@@ -162,7 +162,7 @@ hash = "07116a3cf1df83c06967713c1c450e0453a3d21a6d162fff2a62dc838ceccc92"
 
 [[files]]
 file = "config/buildcraft/main.cfg"
-hash = "0fe0a3281a20cabcc3d96f7484a4cecf5dfecc3eb14fc5bc3b605feda4286f65"
+hash = "77d201e05076c263bd0f475fc3879bcbedbe662f798c4ca4c544bab2c0bcbea4"
 
 [[files]]
 file = "config/buildcraft/objects.cfg"
@@ -824,6 +824,11 @@ metafile = true
 [[files]]
 file = "mods/embers-rekindled.pw.toml"
 hash = "fda80353c1f174c3060d7c162670e7337d5ffeb41654039242b63eb392b7100c"
+metafile = true
+
+[[files]]
+file = "mods/embersified.pw.toml"
+hash = "393e16353fbc358460ca8a78490f8e7e8d0cdef06f55a613bb4ee42ef8fde8bb"
 metafile = true
 
 [[files]]
