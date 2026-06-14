@@ -777,6 +777,11 @@ hash = "ae1102797c17f21f72397fb6e66145c1d7427fa825e771e9c314ba66b8682f54"
 metafile = true
 
 [[files]]
+file = "mods/chisel.pw.toml"
+hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
 metafile = true
