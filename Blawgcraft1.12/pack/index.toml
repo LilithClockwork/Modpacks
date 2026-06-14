@@ -767,6 +767,11 @@ hash = "ab4781ab6b6f14b93eff468b16cf68a8dc181d3f088b952888dbace39ec6f9bc"
 metafile = true
 
 [[files]]
+file = "mods/blockcraftery.pw.toml"
+hash = "e2f14e48f0d4b8de42d67ba71c65c2b50e0e5ee9c823f825087c9bd5da11d5b4"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "96de7b241688c8771621d9ef3dcc4eb565389739196334bea745043375dbc03a"
 metafile = true
