@@ -14,11 +14,15 @@ hash = "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "e611c47f9dbf54cbe795c99ce4d21abde9a1dfd1cda59a1dccd5aa5ce5ef4b70"
+hash = "d4e6ed152dfddc672c00338052a3e3138b4cd17a67973b98eb2cd2074550a0cd"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
 hash = "577ae322038ef9b6e1c792d018a5bdb35d974bd37fb58a997f20d7f53b6336fc"
+
+[[files]]
+file = "config/Embersified.cfg"
+hash = "f31e370fc51cb5318eb6f7525e2b7f3fad8738d9449dd54179a62bad98c092e9"
 
 [[files]]
 file = "config/SGCraft/general.yml"
@@ -35,6 +39,22 @@ hash = "138502c44edec52e7a1672728e470bdccf67ee386fe1b1428295d3ca651254a3"
 [[files]]
 file = "config/SGCraft/zpm.yml"
 hash = "dc3a3cfc274f4d5f3fa83d34f7da5271c2d19e7c8f438fe75934555834dc4d35"
+
+[[files]]
+file = "config/Universal Tweaks - Bugfixes.cfg"
+hash = "7d3a2e8750093a9623d6e062694b549b4b96d2337885ef71808ebc2dba02e425"
+
+[[files]]
+file = "config/Universal Tweaks - General.cfg"
+hash = "aa46c627c5b130cc70f5c6423635321c90946f250b10e58724fbc09473898207"
+
+[[files]]
+file = "config/Universal Tweaks - Mod Integration.cfg"
+hash = "cd52ebb92cbf57ad39a63579eba1b8d9cd6cbab5936cb6d67780806c84619ad4"
+
+[[files]]
+file = "config/Universal Tweaks - Tweaks.cfg"
+hash = "81e1b91e2e86520afa40391b5bda50dbd12f3fcb5350ec90962ffe96b8e2daeb"
 
 [[files]]
 file = "config/advRocketry/Centrifuge.xml"
@@ -97,6 +117,10 @@ file = "config/advanced_smelter.cfg"
 hash = "e1a162999c71c3c3ab606dd907cac9f0856ba86a3fd62cf178fec15c52fc1073"
 
 [[files]]
+file = "config/akashictome.cfg"
+hash = "d391fbd4d704d94d57280e0f5169b3e1b4b3bbc48aea84d3cd0d9293f35307b1"
+
+[[files]]
 file = "config/appleskin.cfg"
 hash = "27fdd990f5cc4d5f8da3a8cd189a26dc50158edfd32ac633a9b82729c33ad317"
 
@@ -141,6 +165,14 @@ file = "config/baubles.cfg"
 hash = "e508483e8a803419d2600e3135cd0ccb6ea71307e3b20ccefc7943cbde4e1b18"
 
 [[files]]
+file = "config/bibliocraft.cfg"
+hash = "d6f033e1cd074180b82906ef12e813e0ddd34cf00c27d32fdb0f57f857b79d7f"
+
+[[files]]
+file = "config/blockcraftery.cfg"
+hash = "9ef23aa5bc31dd9697380f334afa1c613ab9ac028c958752bf6ce42efeb6e21c"
+
+[[files]]
 file = "config/bogosorter/config.json"
 hash = "a2b4fa1c46e5a2acabf85f15d52c8d18b4172b0ae832d3bbf97a4305eb2b4c58"
 
@@ -167,6 +199,10 @@ hash = "77d201e05076c263bd0f475fc3879bcbedbe662f798c4ca4c544bab2c0bcbea4"
 [[files]]
 file = "config/buildcraft/objects.cfg"
 hash = "b751099ef3d2d70e7d32f7fe5b4f166ffd94a3d577bd61206e1911ea7e8ee011"
+
+[[files]]
+file = "config/chisel.cfg"
+hash = "d26ecdae81dae81dc58f3b9a3838b5382023e0904c74ea72cc2fcf320086cc96"
 
 [[files]]
 file = "config/codechicken/supporters.json"
@@ -261,6 +297,18 @@ file = "config/cosmeticarmorreworked.cfg"
 hash = "2e96bfca7acd8941dd020349e709954ba241feeea6f20d6208b32c0a1aa2ea27"
 
 [[files]]
+file = "config/craftingtweaks.cfg"
+hash = "d5cc56165a845284f9473124b3dc3f0eaf493a2ded2d6d2be8f279e3f1f9d3d3"
+
+[[files]]
+file = "config/ctm.cfg"
+hash = "7ddf0e7cd4bb1dc03e6201ab78a7f73f0e7ac2cbbdb615c44fa72df5db63ca89"
+
+[[files]]
+file = "config/dynaores.cfg"
+hash = "4b357adff338fd2ab61db6a821a1d761918ee47ac7e21a5f6c6724dc73f3cac8"
+
+[[files]]
 file = "config/embers.cfg"
 hash = "8f67d6f00ea5820c418f079dbd872a6dc474c6e3d767cbc8a0a83f02c0e8c2d9"
 
@@ -333,8 +381,480 @@ file = "config/gbook_snapshot.cfg"
 hash = "49c314ca28895d8c303d903287acafa0c866a4aa7e45c2bedfe4f19868b33db3"
 
 [[files]]
+file = "config/immersivecables.cfg"
+hash = "aa2b9221c7f8bda653c59759bb29e5767eef82d00752cc01fd69bfdb4b3eb77c"
+
+[[files]]
 file = "config/immersiveengineering.cfg"
-hash = "8483d3983d2561201809d2fa636fbd42fcd38688b7ead9d197f010873a3c769a"
+hash = "4e54ab2b94ab31f1bfbfa724fed348f4aa9186851e680bd46147785d681e233c"
+
+[[files]]
+file = "config/immersivepetroleum.cfg"
+hash = "ce0869c39645a87df66e2d88c569fe7c1eaaca1c2e53f51e281b4379696df2ce"
+
+[[files]]
+file = "config/immersiveposts.cfg"
+hash = "83346035f52696cb1fd6a8f40a8c7bd21f7aefda0ae5d2588f878d907495dd42"
+
+[[files]]
+file = "config/incorporeal.cfg"
+hash = "14ad2bcdab29a086c0009740194bb52aae6818851f8df74ec0f9712e38519580"
+
+[[files]]
+file = "config/jaopca/custom_forms.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jaopca/lang/en_us.json"
+hash = "d77193206f2ad8baa966cb0d953ebe4bba1b7b8e67ca8656df57ae40d4ab63ce"
+
+[[files]]
+file = "config/jaopca/main.toml"
+hash = "2e8498eb0ab0f9a624639fb0cf4743a92eb2744f4031c85059378b5200e3227c"
+
+[[files]]
+file = "config/jaopca/materials/aerotheum.toml"
+hash = "01213bbd03b0661e71fd98cdfafce2581d69ef443f941270972d80c5e266b4fa"
+
+[[files]]
+file = "config/jaopca/materials/aluminium.toml"
+hash = "5a39b02d6c80c02576d4c2ccbacdbb139cfb21f2df84a015e0d33b273071deab"
+
+[[files]]
+file = "config/jaopca/materials/aluminum.toml"
+hash = "07e93ba2f8909864d6d58493d8849986efdd805785073c08d79f613dca3ee67a"
+
+[[files]]
+file = "config/jaopca/materials/amber.toml"
+hash = "f4034e0195eea48d90746befa8175f8c4b9d6540a5e2e65e8206b17ae302fd6b"
+
+[[files]]
+file = "config/jaopca/materials/amethyst.toml"
+hash = "921e7e6bb647cf41e395e86135947aaf214304f289b8497a6342ef3eff2f3146"
+
+[[files]]
+file = "config/jaopca/materials/apatite.toml"
+hash = "ebfda2c6d39abaaacd4c53ab99e250e9a7b7f8ed57b5d1d8482e77a0902a5fed"
+
+[[files]]
+file = "config/jaopca/materials/aquamarine.toml"
+hash = "1c7a74aa5199df4269afb11f01258366665d914a7e5cbe3ad879aff1e0a6e65f"
+
+[[files]]
+file = "config/jaopca/materials/ash.toml"
+hash = "d5da51c8814df54506030448122898ac0cab62ea0bc38cad7338ca6385a5d252"
+
+[[files]]
+file = "config/jaopca/materials/ashes.toml"
+hash = "3653d233a1e02a68a960fe79e6625d73da497b4cedae11615cdbd6bea5c1ae36"
+
+[[files]]
+file = "config/jaopca/materials/astral_starmetal.toml"
+hash = "dddefae947be07a028604f1f9586def8a9a3c8e103dc95436cb1cb901213e178"
+
+[[files]]
+file = "config/jaopca/materials/basalz.toml"
+hash = "af73b99bb480393b5a165d58095da6956c756cf9195531bd9920f49bc604d15c"
+
+[[files]]
+file = "config/jaopca/materials/blaze.toml"
+hash = "07ee25db968355020712d2981256629db8b92352819f94ed562ae7f81ae55c84"
+
+[[files]]
+file = "config/jaopca/materials/blitz.toml"
+hash = "639f4e3fe3850a7bdf1d87e2d4ee3b507b8b702198d0317940a4c90169d940ef"
+
+[[files]]
+file = "config/jaopca/materials/blizz.toml"
+hash = "c9a8f5a60797b84e26a03a29267ec35949bb41f6f894fad085514090a39ba46e"
+
+[[files]]
+file = "config/jaopca/materials/brass.toml"
+hash = "d7daea2418685d51c5ed9d71811968ef5349dd52896c4d481d633b7353b808d6"
+
+[[files]]
+file = "config/jaopca/materials/brick.toml"
+hash = "793bfee3539d61e64f742af7f7081d284950367dfd5c96aaac36460b990bb267"
+
+[[files]]
+file = "config/jaopca/materials/brick_nether.toml"
+hash = "24c5c084b43105bfd8acedcf5299cd62d76a4e2a1f1d08c67b2c87cef8f1b41f"
+
+[[files]]
+file = "config/jaopca/materials/bronze.toml"
+hash = "9fe8c74582edeff2c2fd95d6f541d39271e55ec1afa51131c2a29862a04f636e"
+
+[[files]]
+file = "config/jaopca/materials/carbon.toml"
+hash = "683515dac693a7372b7832a79b45a447f338badf85cea0898ee7dea5d11e52f5"
+
+[[files]]
+file = "config/jaopca/materials/certus_quartz.toml"
+hash = "c3f0821a66132d4fda28624b1e72ada641d94ddbfcb0f0058202d1f21cf58c77"
+
+[[files]]
+file = "config/jaopca/materials/charcoal.toml"
+hash = "3921ecf8b5d272f4475f83c7ea985da85348122d761231b2b9daad3ff233889e"
+
+[[files]]
+file = "config/jaopca/materials/charged_certus_quartz.toml"
+hash = "cf290a7fd5e291cf4fadc6a77f52eef123964e77a7c35831b2d222324e9d7084"
+
+[[files]]
+file = "config/jaopca/materials/cinnabar.toml"
+hash = "b0e61e9ee2f4e37a556d0f637cdaea566f385acd59eb6c86cee6dfb90c9963c0"
+
+[[files]]
+file = "config/jaopca/materials/coal.toml"
+hash = "75029d35e3ec1a2026f4e8e8ae799a4642f7e0bfba74df12a7590b3bb9b3fb6d"
+
+[[files]]
+file = "config/jaopca/materials/coke.toml"
+hash = "ae020af54e4fe16fcf3383c85107673be441539c9a867249c933f7f626779ce0"
+
+[[files]]
+file = "config/jaopca/materials/constantan.toml"
+hash = "7d815572f42332ddc4bf4c9868a491ecb56540f31dde2f19450efb3b9bf37a61"
+
+[[files]]
+file = "config/jaopca/materials/copper.toml"
+hash = "4931fd27828661065857424dda98738f72bbe376202fd86d3ffeb7146dd8ef28"
+
+[[files]]
+file = "config/jaopca/materials/crude_oil.toml"
+hash = "f789b05dd92df5a71e1d1f53fd112464ba81fedb5d9031440acb8827eab4da02"
+
+[[files]]
+file = "config/jaopca/materials/cryotheum.toml"
+hash = "eeb8234e00ffb1598e0b7841361c269b0a289fbed69259b9488a7c146e716669"
+
+[[files]]
+file = "config/jaopca/materials/dawnstone.toml"
+hash = "eec4423fbfc03ce1437535df7d2d472c99439dc8ebee869f3e5dbf50b003b491"
+
+[[files]]
+file = "config/jaopca/materials/demonic_metal.toml"
+hash = "9a6f6fa59bc16fa55ce52ea9a445dd4e8ae0f851f2f101e62966b5abfe431557"
+
+[[files]]
+file = "config/jaopca/materials/diamond.toml"
+hash = "4bca0fd7af9b02587ed607013d4622579837b288b00b7bbb42d858e16621fab2"
+
+[[files]]
+file = "config/jaopca/materials/dilithium.toml"
+hash = "6903473c22dc74e0bd05e03078f70f5f13f72e380c7c3c6cdef04da357804117"
+
+[[files]]
+file = "config/jaopca/materials/dimensional_shard.toml"
+hash = "9bc8f95053004a48a3b35c61a03000a21e737d3a33e140ffba4a2e9f225ae9f1"
+
+[[files]]
+file = "config/jaopca/materials/electrum.toml"
+hash = "5b0600402e05031d195f979a6927529dc082048e8b3adcc7ec898e558f3d4bb3"
+
+[[files]]
+file = "config/jaopca/materials/elven_elementium.toml"
+hash = "5058feaafb2628f229b0e39a36a7113c2627f9d7855da3aec539a1f96b32d673"
+
+[[files]]
+file = "config/jaopca/materials/emerald.toml"
+hash = "e40e277dc3c0bd074ca1f0bff34ea226b1e9d41cdb067491bf049d7d7f87a840"
+
+[[files]]
+file = "config/jaopca/materials/enchanted_metal.toml"
+hash = "f140afee002713e1d1d2c7beb772469eb554dbf6cd50599f139f09418b6cb87e"
+
+[[files]]
+file = "config/jaopca/materials/ender.toml"
+hash = "6f68d611f7690f4f4666973265066526a15cc25475e7f1aee15cb39d9391d1c3"
+
+[[files]]
+file = "config/jaopca/materials/ender_pearl.toml"
+hash = "15b3e4d5ac0b3eb6d1d232d952a65e78b9cdf41c81157167be5b19bda6e8316e"
+
+[[files]]
+file = "config/jaopca/materials/enderium.toml"
+hash = "28c5d7c018effaacbb7e840dd2054a2092bc245d48c7ebcd105f246c79ee574d"
+
+[[files]]
+file = "config/jaopca/materials/evil_metal.toml"
+hash = "d606b3251eaf85618b001d006d51632b5ed9e5c0a2fefd15d09efc34146c4196"
+
+[[files]]
+file = "config/jaopca/materials/fluix.toml"
+hash = "50e426d5495f97f93842b6cde401f2bd96688b4a6fdc897ae0648f59b3007557"
+
+[[files]]
+file = "config/jaopca/materials/glowstone.toml"
+hash = "eaa7b9a81bd2206ed633742b1906aa4e686cf4f86313ce236f158cc605642680"
+
+[[files]]
+file = "config/jaopca/materials/gold.toml"
+hash = "843120562a97a6607f865482e0030788ce6539421f4504c535919e30adf1bc28"
+
+[[files]]
+file = "config/jaopca/materials/h_o_p_graphite.toml"
+hash = "b8ecdd15a2a49d2976317b9eb0f4c0d0d51a1afe14d6b6465fc6d2c01f7e7831"
+
+[[files]]
+file = "config/jaopca/materials/invar.toml"
+hash = "721a694a2ebd43741213c231d68cd580813605cb2d4d3403bb4e806a46b86b76"
+
+[[files]]
+file = "config/jaopca/materials/iridium.toml"
+hash = "c761f8ad10a8628c15452e9e9c1acb02d22b27a18b2fce1b6e6fa23178c2bcd4"
+
+[[files]]
+file = "config/jaopca/materials/iron.toml"
+hash = "dd3f14577fa51b07b7fb96ad5b398b0dcd3aadb9cd089aa82fb1b22d97e42eff"
+
+[[files]]
+file = "config/jaopca/materials/lapis.toml"
+hash = "6dc0f57153b8622972ba36357c8c03b37b9424aa71f94c2e4ae88734b366639c"
+
+[[files]]
+file = "config/jaopca/materials/lead.toml"
+hash = "cae2dc82e2488ff47263d4285242bc757cd2cf04c7da9bf471a5edbef2732305"
+
+[[files]]
+file = "config/jaopca/materials/lumium.toml"
+hash = "4d5dfb2d03e449d62ec4773d02dad115076bb73b2ef8aee0b2db9eec82b2ca7b"
+
+[[files]]
+file = "config/jaopca/materials/lunar.toml"
+hash = "16888f9f92ff1ed887b1b371319ab747ca65bee15d62b77b0c7d59d8614185ec"
+
+[[files]]
+file = "config/jaopca/materials/mana.toml"
+hash = "5ee44889c4385b1074466cbbacd07621fe6e74a6b8d2bbd6554c205628707ee1"
+
+[[files]]
+file = "config/jaopca/materials/manasteel.toml"
+hash = "4b187d567c99b4bc307586703c2302159b5c267ac6baa6e6e52ecb5eaa03897e"
+
+[[files]]
+file = "config/jaopca/materials/mithril.toml"
+hash = "6ac338b2dfa7cbb84885db6b44c583b6be03274a0a60dc0ef64259e501c76da6"
+
+[[files]]
+file = "config/jaopca/materials/moon.toml"
+hash = "e7d94a0a2875ba99ce4afc8e6ebebaf5679c0587efdbc2c23e7c52e35d6c7538"
+
+[[files]]
+file = "config/jaopca/materials/naquadah_alloy.toml"
+hash = "c9c78011a17f6cd88b0c294b01d848831ceff7cb70000edb142260b341b05bf0"
+
+[[files]]
+file = "config/jaopca/materials/nether_quartz.toml"
+hash = "9a0f89c8893037d9c8995dfac5e5d5b1f34f68e93323b2ea0a062969a5654fc8"
+
+[[files]]
+file = "config/jaopca/materials/nickel.toml"
+hash = "88df3243748a8449d6d25a0f5e734b70c924c22fbd34cd5f596764379226d862"
+
+[[files]]
+file = "config/jaopca/materials/obsidian.toml"
+hash = "16e2082aaa9b1fe3b36034d8332f25cab700042ad316327240dcf3cbb0238af9"
+
+[[files]]
+file = "config/jaopca/materials/pearl.toml"
+hash = "0846e2dc3358c75a606f1d0f2e48bd209ec1989eccfd3f7c0f27436f9f46c008"
+
+[[files]]
+file = "config/jaopca/materials/petrotheum.toml"
+hash = "753e5a6fbf0cad01f2215030c79d43a70a1b3c8cb95b89f0f0d29bf9bc4670f9"
+
+[[files]]
+file = "config/jaopca/materials/platinum.toml"
+hash = "0c0c42b8b4a92164091f1e038382c45bbf830424a99eef1b130cd047569bc6a9"
+
+[[files]]
+file = "config/jaopca/materials/prismarine.toml"
+hash = "9ccd85e820d8bcbd23da9ad03bb8fea67ff5740ecba7a134a0ef2e9ef0ad1d17"
+
+[[files]]
+file = "config/jaopca/materials/pure_nether_quartz.toml"
+hash = "770a047fe215f41926a81927e1307fc96b15feacf2f86eb84fed42d3cc9f3910"
+
+[[files]]
+file = "config/jaopca/materials/pyrotheum.toml"
+hash = "6b92fbe7934d99366e31b955a0ae30bdc0219b6a583a8e1fb6ddf779c48c647f"
+
+[[files]]
+file = "config/jaopca/materials/quartz.toml"
+hash = "e7ce53083c393ed2b6d7d7432f48585fd511e46555987a8578d5b83752d78262"
+
+[[files]]
+file = "config/jaopca/materials/redstone.toml"
+hash = "53c6b5d44d6a7d5a4d223f4015bae11811e1ba5471a481c643417f04adda6649"
+
+[[files]]
+file = "config/jaopca/materials/salt.toml"
+hash = "d062c1716e74265337aaa65d93016ff58b6265645fb8780611147380dedccd5d"
+
+[[files]]
+file = "config/jaopca/materials/saltpeter.toml"
+hash = "28e6658356e438d9fde9757fdb8dc2efa69da34440396b4db62ca2a628e39ebc"
+
+[[files]]
+file = "config/jaopca/materials/signalum.toml"
+hash = "518ff643c4253cb17a686311cce12adcfb06e7d102c0f407c85e3323438e76a1"
+
+[[files]]
+file = "config/jaopca/materials/silicon.toml"
+hash = "08c4f204ddf75da43a8c708fc815ca81c45a3ead9dac3f51773e731d525250ee"
+
+[[files]]
+file = "config/jaopca/materials/silver.toml"
+hash = "20637f2f05bedad0adc736346dd1972f816d4c17232c98240a0cd632bf7a7718"
+
+[[files]]
+file = "config/jaopca/materials/slag.toml"
+hash = "767ba0d7ff8fee3c15c43ce65c3774797a852e1bb5a642c3333e27db6c63dfa2"
+
+[[files]]
+file = "config/jaopca/materials/slag_rich.toml"
+hash = "97ae485988f3899fd28a9535e1111751e77a25b0c14cbe93e67b7ba2f8c69748"
+
+[[files]]
+file = "config/jaopca/materials/steel.toml"
+hash = "12d05c921339edad0c23e59c027b9f5e43ddcc21fb6665d0ca8f45a7045f4fdd"
+
+[[files]]
+file = "config/jaopca/materials/sulfur.toml"
+hash = "a10f7927c2a4220ee4ae263e30192c3cf9eb034fbd08bf77df870704fa733238"
+
+[[files]]
+file = "config/jaopca/materials/terrasteel.toml"
+hash = "efa35d7e6f073251cb70a261b6a03a85198919c5e8693f60cbe9ddaaa329ce38"
+
+[[files]]
+file = "config/jaopca/materials/thaumium.toml"
+hash = "64e97e7289bea2cc7f07e24973bb4ffc9a92346c96ebe5a135854a91b5e381d9"
+
+[[files]]
+file = "config/jaopca/materials/thermite.toml"
+hash = "33a157dcd08cbc2cbab90a57b5a89bad7ab259bf1718eebca419f134fc2a09f9"
+
+[[files]]
+file = "config/jaopca/materials/tin.toml"
+hash = "6db83dfef1ea3d253effe9880ab9dae318016acc38364b2279c930993e391ea9"
+
+[[files]]
+file = "config/jaopca/materials/titanium.toml"
+hash = "0c75481db6fb4f13f99444ba339bbb18ef8e2a5ba3a5bf6a92e03d228e817a30"
+
+[[files]]
+file = "config/jaopca/materials/titanium_aluminide.toml"
+hash = "eb31844853e79634d765346cccee768acbbef9955564a106f2d1a2ff30d4aef8"
+
+[[files]]
+file = "config/jaopca/materials/titanium_iridium.toml"
+hash = "a259bc56435a4653886dea9a76d9ab35240dec3e60d64be592bbe80d228b24a5"
+
+[[files]]
+file = "config/jaopca/materials/unstable.toml"
+hash = "6f07b799285423e83c71c67a612f02eeb898d1fdff343ca5a48a7db257f866a0"
+
+[[files]]
+file = "config/jaopca/materials/uranium.toml"
+hash = "de17b5b73d07a25cb21c1ad429433e35731776bb1fa73e79f33c8fc629627b40"
+
+[[files]]
+file = "config/jaopca/materials/void.toml"
+hash = "8fc533d62081a784d651f65f3bf40dbd1376a909fd801374633fb2cf7ebd02b6"
+
+[[files]]
+file = "config/jaopca/materials/wheat.toml"
+hash = "f5f13bdc2f625d50fdb165588840c7894dbff22d38e13369de89ecfaebf4a110"
+
+[[files]]
+file = "config/jaopca/materials/wood.toml"
+hash = "ca7456d6c29e4f36e4b4e441c4c9349233198ef7a7f684dda6d7e18964a034de"
+
+[[files]]
+file = "config/jaopca/modules/advancedrocketry.toml"
+hash = "75b195e0eb9fba2880af903ddddb97037f344b4562ee00ccf4c65a7cb40cb68f"
+
+[[files]]
+file = "config/jaopca/modules/advancedrocketry_compat.toml"
+hash = "30afa33a9d7f1f00163f436ed4e5cf8120c89661699bc5baa610f1eed7469b67"
+
+[[files]]
+file = "config/jaopca/modules/appliedenergistics2.toml"
+hash = "75b195e0eb9fba2880af903ddddb97037f344b4562ee00ccf4c65a7cb40cb68f"
+
+[[files]]
+file = "config/jaopca/modules/appliedenergistics2_compat.toml"
+hash = "68441a402986fa1a118a89bf27428c6707c495b6aef08c9ecd896dc1175d670d"
+
+[[files]]
+file = "config/jaopca/modules/astralsorcery.toml"
+hash = "75b195e0eb9fba2880af903ddddb97037f344b4562ee00ccf4c65a7cb40cb68f"
+
+[[files]]
+file = "config/jaopca/modules/block.toml"
+hash = "75b195e0eb9fba2880af903ddddb97037f344b4562ee00ccf4c65a7cb40cb68f"
+
+[[files]]
+file = "config/jaopca/modules/coin.toml"
+hash = "c7e2606d1600f6ddceb8473aaeaa34b95e23c75f74cd107999787aeeaabe833d"
+
+[[files]]
+file = "config/jaopca/modules/custom.toml"
+hash = "75b195e0eb9fba2880af903ddddb97037f344b4562ee00ccf4c65a7cb40cb68f"
+
+[[files]]
+file = "config/jaopca/modules/dense_plate.toml"
+hash = "c7e2606d1600f6ddceb8473aaeaa34b95e23c75f74cd107999787aeeaabe833d"
+
+[[files]]
+file = "config/jaopca/modules/dust.toml"
+hash = "75b195e0eb9fba2880af903ddddb97037f344b4562ee00ccf4c65a7cb40cb68f"
+
+[[files]]
+file = "config/jaopca/modules/embers.toml"
+hash = "af111a92cf296f1d18a31a7af3418bda3d846aae854766014663727522699ea5"
+
+[[files]]
+file = "config/jaopca/modules/embers_compat.toml"
+hash = "3f59d4fdc78626cb485e3571f4eba7aa7891ef7d34c24b4bf68e34cbc164569d"
+
+[[files]]
+file = "config/jaopca/modules/gear.toml"
+hash = "c7e2606d1600f6ddceb8473aaeaa34b95e23c75f74cd107999787aeeaabe833d"
+
+[[files]]
+file = "config/jaopca/modules/molten.toml"
+hash = "c7e2606d1600f6ddceb8473aaeaa34b95e23c75f74cd107999787aeeaabe833d"
+
+[[files]]
+file = "config/jaopca/modules/nugget.toml"
+hash = "c7e2606d1600f6ddceb8473aaeaa34b95e23c75f74cd107999787aeeaabe833d"
+
+[[files]]
+file = "config/jaopca/modules/plate.toml"
+hash = "c7e2606d1600f6ddceb8473aaeaa34b95e23c75f74cd107999787aeeaabe833d"
+
+[[files]]
+file = "config/jaopca/modules/small_dust.toml"
+hash = "c7e2606d1600f6ddceb8473aaeaa34b95e23c75f74cd107999787aeeaabe833d"
+
+[[files]]
+file = "config/jaopca/modules/stick.toml"
+hash = "dfbcd1088fd55f8553c30c27c2c98c7476c4a88a29883d521b1954f1e9a807b7"
+
+[[files]]
+file = "config/jaopca/modules/thaumcraft.toml"
+hash = "75b195e0eb9fba2880af903ddddb97037f344b4562ee00ccf4c65a7cb40cb68f"
+
+[[files]]
+file = "config/jaopca/modules/thaumcraft_compat.toml"
+hash = "80db29b06b5a1dd9d7d29cf43a063d8923808d17ec1e4a8149a6b8a7c66d0227"
+
+[[files]]
+file = "config/jaopca/modules/tiny_dust.toml"
+hash = "c7e2606d1600f6ddceb8473aaeaa34b95e23c75f74cd107999787aeeaabe833d"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
@@ -351,6 +871,10 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 [[files]]
 file = "config/jei/worldSettings.cfg"
 hash = "8e7f744170c4efa3dcada825d9a8bdef52a1346e28a78406bf660e63c8e1ab03"
+
+[[files]]
+file = "config/jeresources/jeresources.cfg"
+hash = "89a554fa03284ed83867e2876bcebc7a2ff80e915d6bfa6938bda51d4894ea57"
 
 [[files]]
 file = "config/key_binding_patch.cfg"
@@ -379,6 +903,10 @@ hash = "56eaca46f89e15d0f2a33651290bd3ff06ad8636f91b098ac2cff8a5870315ab"
 [[files]]
 file = "config/mct_mixin.cfg"
 hash = "003d1b496cad2693f065b221218aed2cd080c4b2d4d0c81d0cfe28f95826e5ae"
+
+[[files]]
+file = "config/modnametooltip.cfg"
+hash = "c3b897ecd08bf4cf0a29747d40f5a5326df8cff30e797c15e37a3161a0b8de68"
 
 [[files]]
 file = "config/modularui.cfg"
@@ -430,7 +958,7 @@ hash = "e655961a30436fbe4c36caa1f3cc919ab4c2c5313e21e91cf8f9971cf9889237"
 
 [[files]]
 file = "config/psi.cfg"
-hash = "1b73715b3dca00cb040df65e1f61bc4b54934ff4195d00044ead75dbd866abf7"
+hash = "e0ea34fd0087efbe0a48f0ab3b2a40fce31b6f52628e3c08cccb1a594d45bb73"
 
 [[files]]
 file = "config/psuedonym.cfg"
@@ -485,6 +1013,10 @@ file = "config/roots/tools.cfg"
 hash = "c54b712ccbb5c2e9de20ec769ee7649403b68cf48025cd5b14367ccf26dad16b"
 
 [[files]]
+file = "config/rpsideas.cfg"
+hash = "cca15aa8367647fcb416cf480cd645f0b0873be29893f877eb5e512bda2eb819"
+
+[[files]]
 file = "config/rustic.cfg"
 hash = "c7263c456e0756f27e0016ff5e9ed4d82bf01ac5db52a3e7ca198a15f2790d88"
 
@@ -502,7 +1034,7 @@ hash = "f2699e97bf5c0475178fa2510efdf5c25bd1abb5d8572c58897e7e77318cf84a"
 
 [[files]]
 file = "config/splash.properties"
-hash = "28f8c1935025a619f438b0662f8fa151ec0216c1de84a4c58a469193657aee74"
+hash = "1c0f8cdab0a5f1ddc1aa438f6ef87d8de5b5c3d21d3f786c36094ada94cf54de"
 
 [[files]]
 file = "config/thaumcraft_graphics.cfg"
@@ -538,7 +1070,7 @@ hash = "ebad328b693b32ca53b23ead8106183257380c522ecd040c84846d0705f601fb"
 
 [[files]]
 file = "config/thaumicjei_itemstack_aspects.json"
-hash = "09decfff0a6fdb1b73e2c7d53495e3341ae5b218a365191c996d8369fbf2c8f3"
+hash = "cfceff9ec3ca3746fde367fb6be2a0f870599829d2f8da4d188224fafc38821f"
 
 [[files]]
 file = "config/thaumictinkerer.cfg"
@@ -639,6 +1171,250 @@ hash = "756ea811006c2de716ef6156c35de41ad5e8be6bec45acfdb72a372e6318a8a3"
 [[files]]
 file = "config/witchery_patches.cfg"
 hash = "4d45f2bc4cf99124ef481d34e47cff203ec083f5e5a233c10748185676a67089"
+
+[[files]]
+file = "config/wizardry.cfg"
+hash = "5099a03e391885a68c941c9d1210255ede3fbbefd266ff5b88eff32235597ca1"
+
+[[files]]
+file = "config/wizardry/fire_recipes/devil_dust.json"
+hash = "4395f9ee0d22885ff0be6fbb4f22711c3266db755550e4f81955a244a143451a"
+
+[[files]]
+file = "config/wizardry/fire_recipes/devil_dust_secondary.json"
+hash = "9770ecf5f9895ab59d26b5c0eec90d9924c9acdb7524f7644f7f576ef89a2e90"
+
+[[files]]
+file = "config/wizardry/fire_recipes/sky_dust.json"
+hash = "e8eb4136816d705edfedaf4b316a6dfc5757695104f1406f2f7d494c7cdb4c87"
+
+[[files]]
+file = "config/wizardry/fluid_recipes/codex.json"
+hash = "3df6c4547c39f38f99072d968a236deac63cf119d5367f4137a974d0257762b4"
+
+[[files]]
+file = "config/wizardry/fluid_recipes/mana_battery.json"
+hash = "494604da55683cd91eb44ac267c4dee89c9e2d5427e568b08bd86c45fce4fb17"
+
+[[files]]
+file = "config/wizardry/fluid_recipes/mana_orb.json"
+hash = "c08a40b718204399cdcd290d8c0d210ed01a716625d91286ddd09021094e88be"
+
+[[files]]
+file = "config/wizardry/fluid_recipes/nacre.json"
+hash = "15539ebb3e96512fc9e8a4b1502b42a79cf3998574f63781612838bf5bd0083c"
+
+[[files]]
+file = "config/wizardry/fluid_recipes/temp_real_halo.json"
+hash = "ee2f0449ded236cfbec16d0fdb775dc5552dae08466513a90cf5b72d03145c73"
+
+[[files]]
+file = "config/wizardry/fluid_recipes/unicorn_dagger.json"
+hash = "9a4068d80a5bea54e2ea9c8c5514043a62496d52f5e3aae7a8412ef0e0fc810c"
+
+[[files]]
+file = "config/wizardry/fluid_recipes/wisdom_door.json"
+hash = "776c6a9abf7b5d7d4e31d0b74e01fd1f7b252b7e88ef647b8df63d47c00efacd"
+
+[[files]]
+file = "config/wizardry/fluid_recipes/wisdom_fence.json"
+hash = "cc6b3ed2fb7dd81c3fa66611fc89ef23477189ee5b54f771ddd99a6c3b8d1dd7"
+
+[[files]]
+file = "config/wizardry/fluid_recipes/wisdom_fence_gate.json"
+hash = "8d92d15e7a1e12578745bea824acf25dde4c914ae5dbad0682fae15526ac4c48"
+
+[[files]]
+file = "config/wizardry/fluid_recipes/wisdom_leaves.json"
+hash = "154a017c9ce1e25c4758d7cabd8acc3cbe9d33a040efdd9700860627a924c637"
+
+[[files]]
+file = "config/wizardry/fluid_recipes/wisdom_log.json"
+hash = "e1c3077f6ae0bfd72481a213e116964b9e53c1659a4a2f2dc60aae9c53bfbfc5"
+
+[[files]]
+file = "config/wizardry/fluid_recipes/wisdom_plank.json"
+hash = "e2dcbaa2b753991951734e0a0220d5c7ad2e8fc711eed78bc51d1c0544e18c50"
+
+[[files]]
+file = "config/wizardry/fluid_recipes/wisdom_sapling.json"
+hash = "a60b223fefe4bf7533bc61a7d715fea5b3c4e6dbb9651c6faf5436f18be2146b"
+
+[[files]]
+file = "config/wizardry/fluid_recipes/wisdom_slab.json"
+hash = "86a54f3af7918071d0a177c1cbee95e5b31b4e2514737c1b9c2c6f2137972487"
+
+[[files]]
+file = "config/wizardry/fluid_recipes/wisdom_stairs.json"
+hash = "f150537994b1bdba83b555da887700f59ec9ef036bbdb6fbda9a45b639a4a378"
+
+[[files]]
+file = "config/wizardry/fluid_recipes/wisdom_stick.json"
+hash = "7bae14a4a424dabaa6b4d4d3e29f14f72ee230306a87738e6542d65d986ff67b"
+
+[[files]]
+file = "config/wizardry/wizManifest.json"
+hash = "32f7e2bb3f2985484e358b7f23b6087e4b491a7d20514f3008f3b6dca74384cc"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_anti_gravity_well.json"
+hash = "1509e684c0b1a71766757d1a12aa2dc071e37b8bd0dd4d3889f6764dd1ebce0f"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_backup.json"
+hash = "7d516dcbb6bae9398912c34650173f950d2f63e0c36bb67bf7787925869a0f4c"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_bouncing.json"
+hash = "2107bfe43f71e4cf6b1a1e4ac20ce809082fa829b284b82ac6ba1feb06148c4d"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_break.json"
+hash = "494e979be4e2a852ebfa39f8af6a24e9c395863506c5782efea31286b6555b5a"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_burn.json"
+hash = "78762070e8421a486dab4a2602c36e6f76d91afc8ac90bb8d6383107e2331a33"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_crasher_fall.json"
+hash = "14b1dfd69881395d5afab065f662dd49c61fe5476f518fb043b10dc7b0a7f778"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_decay.json"
+hash = "4c6e6681b3bb03ed769031448cc321622cf3082a3ebdff70e90328a91e6a5508"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_extract.json"
+hash = "5c0328cda3e16baacd0360f172c33d39506da03ec15fe49a86b8d715cba47fdf"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_frost.json"
+hash = "1f5227aac49aed1d6e2e0797105adf1f32935cefcf79a0808e9bf9034aa1a07b"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_grace.json"
+hash = "60b7f28864348703f36ad2f0ef4f3d64f9ffb273f58ba3d061b42c241d5f3942"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_gravity_well.json"
+hash = "a787ebb62bce7998f054ade50039f6e67c2c53b35bd51d9b461853e3fd48037e"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_leap.json"
+hash = "1046e322e02a18af57047635f2dbdf4aa760f8cba37081754a3e49b310e15a70"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_leech.json"
+hash = "4d6c5af95870981d2d5715c5106c89071d69d5fba2b61a6e99b5915152288b24"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_light.json"
+hash = "3521e20f791d9856b7c518802aa302eecc9b6481e6a5d2359e5c172f3351635c"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_lightning.json"
+hash = "48c1a69080e64a2fbcc2dec8535c9db429279cc84309d84d1a99b3ead5d7c0f3"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_low_gravity.json"
+hash = "4674f16bb8ecbc94076bacda9d9aafc1398806f7e5b4e0baed2504350ade796f"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_phase.json"
+hash = "d2aff35b32c360d6619ec00c6e3769904681356492d18bbdff258cd1d01f2df7"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_place.json"
+hash = "1dd4e1c92f1ee59b72157a00a5d91c0461ea4a7f7829ebebfd988a5401b90dda"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_poison_cloud.json"
+hash = "866c13bdc500f5ee29c5999d24259ee60a1eddf132b3c71a810823c1f49f4fe2"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_shatter.json"
+hash = "d25f211a7c35e9de075656cd6a2a28d87a7c876b4abd587565472d51ae206326"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_sonic.json"
+hash = "5245cd97903301dc74e6251d46c51e620c456c2e08b9c58922e3ddf28b7dd45c"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_substitution.json"
+hash = "96f1cce04b86e178262ba6f68c828f1ecd11dd255579c9a613d3146776e5f06f"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_suffocate.json"
+hash = "1193a155764c1e19b8bdae2e93de616e9d8a3e360a64d1464d1b8a2254146c70"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_telekinesis.json"
+hash = "59b0c183faa8166e17f418c67d31b608690a065df5615e4e5b73d1c48799ab71"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_thrive.json"
+hash = "779cb2542307811e7f153960055d9285d4feba408621d90be766292383169117"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_time_lock.json"
+hash = "0ecae9a39878d397ca1f7fb80aecc463c38e83bc830e7c33975df1edfa730ed7"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_time_slow.json"
+hash = "30e3fb1056bf916a5a1dc220d6745e661ae1421a74b67089779856bf0ccc66aa"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_vanish.json"
+hash = "ddfd2bfa3a657ed834a5bbf1d426489845c201c5142d85d1842f02f0d4419062"
+
+[[files]]
+file = "config/wizardry/wizmodules/effect_zoom.json"
+hash = "b242c0916ddb406a32c7d435b47e00688159e9abe1d87d5818a566cca1d58353"
+
+[[files]]
+file = "config/wizardry/wizmodules/modifier_extend_range.json"
+hash = "84044a68f85296d0848575d566f5e5cdb6f592c5d242846339993df6059ca1fe"
+
+[[files]]
+file = "config/wizardry/wizmodules/modifier_extend_time.json"
+hash = "51ad9e096ec78aff8acec2b3cbca763924c2ff9318d96ee9e4eb702e45ffd183"
+
+[[files]]
+file = "config/wizardry/wizmodules/modifier_increase_aoe.json"
+hash = "bb00d5ab309bf9c76580763351d0d2eafa166c2ab1760bb50b34e009c33da336"
+
+[[files]]
+file = "config/wizardry/wizmodules/modifier_increase_potency.json"
+hash = "8c1b7632e3f21f64d48a863a857c8cbe6797c8d24da15b3e9fd6be45efdcbbd1"
+
+[[files]]
+file = "config/wizardry/wizmodules/modifier_increase_speed.json"
+hash = "d750494eb55ad82dee41b5cacd0bba9f6fd770377b04e5360723c931660381d4"
+
+[[files]]
+file = "config/wizardry/wizmodules/shape_beam.json"
+hash = "44e76ed3ff6a0f1fdfd91b21e1dab9843f1eeb244ff285472c2da4a18252b03d"
+
+[[files]]
+file = "config/wizardry/wizmodules/shape_cone.json"
+hash = "3ce427f8a0db21562dda2445302bb77b935818151b28daf3e2ee93fe9325261e"
+
+[[files]]
+file = "config/wizardry/wizmodules/shape_projectile.json"
+hash = "9f23b191328d99f178a14042a6cb9c477d273651a476962fd65f6136661b371b"
+
+[[files]]
+file = "config/wizardry/wizmodules/shape_self.json"
+hash = "c653a0ba20e248e8a494dcdd228db104fb271d8476f6fd3d294100e908ed642d"
+
+[[files]]
+file = "config/wizardry/wizmodules/shape_touch.json"
+hash = "63e30d1f96c687eb25a58231b7a2d9be933cfb217b81cfa3d2373793d50c3ce0"
+
+[[files]]
+file = "config/wizardry/wizmodules/shape_zone.json"
+hash = "6587851c7f17a20c79b58ebdc92c65fe4b558cac1b1a8abd02b4efa603243101"
 
 [[files]]
 file = "config/xaero/lib/client.cfg"
