@@ -856,8 +856,18 @@ hash = "5d262b1e18771e14cc27f46bae7bafed288ac0a8b2fe9b50f0968cfd9ac2fc92"
 metafile = true
 
 [[files]]
+file = "mods/immersive-cables.pw.toml"
+hash = "cd34b6d93fe3cd7e1195ffc74047473a8cf5d15d31e2ad39065016028701d989"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
+metafile = true
+
+[[files]]
+file = "mods/immersiveposts.pw.toml"
+hash = "9db816216e6683322c0d3b72f8bce3c71ce97d2be4afb4944bbf31a842b3475c"
 metafile = true
 
 [[files]]
