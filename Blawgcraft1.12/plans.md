@@ -13,8 +13,8 @@
 - Crucible Bosnia Rune Recipes, lockable behind obtaining one (?)
 
 ## Localizations
-- Rename either AS or Natural Pledge Aquamarine to a more thematically appropriate name (Astral or Wavetouched Aquamarine?)
-- Add `material.Dilithium.name` localizations as AdvRoc doesn't have it for... Some reason?
+- ~~Rename either AS or Natural Pledge Aquamarine to a more thematically appropriate name (Astral or Wavetouched Aquamarine?)~~
+- ~~Add `material.Dilithium.name` localizations as AdvRoc doesn't have it for... Some reason?~~
 - Lexia Bosnia
 
 ## Possible additional mods
