@@ -142,7 +142,7 @@ hash = "9f6d3c1dd724cd25540b171b665be028b492e53b1ca96fd600ef8fb068cc08af"
 
 [[files]]
 file = "config/astralsorcery.cfg"
-hash = "f7bf5e53fe9b4f70cf879879cea0a7d6e79eb9986bb1f70fb78d858e9d13bddb"
+hash = "e60f2644a7086dbbdc252a54eea76e97c90e8fe9befe392b71d09ae667f2f50f"
 
 [[files]]
 file = "config/astralsorcery/aevitas_ore_perk.cfg"
@@ -342,7 +342,7 @@ hash = "8da57464d42c10d6237be3d9e919fec46b977319ff9074357eb95255e3e70b99"
 
 [[files]]
 file = "config/forestry/common.cfg"
-hash = "07a2b4faaed56b9907dcaa5da2559bef6b663cb27c07b54073e7b377edcfc744"
+hash = "8757eb8f99e0e8c59830fede19b27cb0e7250ed85f31236b521622a3bdf24907"
 
 [[files]]
 file = "config/forestry/crates.cfg"
@@ -930,7 +930,7 @@ hash = "343b076b16e7ae0702381c453dc65809e997a3fe27d92b59feb515ffd8bded55"
 
 [[files]]
 file = "config/mysticalworld.cfg"
-hash = "b34e35c989e56382767f3e5384360cce7db39cbc69959e1d4653cd6d655bc4c7"
+hash = "e3499ff53f7a59dc43a11943fc6870b630d721eeb61243ca4566ee14bf2c9f00"
 
 [[files]]
 file = "config/naturalpledge.cfg"
@@ -954,7 +954,7 @@ hash = "d7bc152b73a63abff66084d96c8ba19af9e35f459054f21a8dd08308c4a1f8c3"
 
 [[files]]
 file = "config/opencomputers/settings.conf"
-hash = "e793ff3bdb861e2738b486889440796da63e2bb8e13da37a5127632ea6b5c35c"
+hash = "31849a3f0033c954777e91315028c82d24a75d35e6a3bd6c802f99d29a79233d"
 
 [[files]]
 file = "config/opencomputers/user.recipes"
@@ -1086,7 +1086,7 @@ hash = "3162caf89c82d8aa6bfbb8bc372259aff4bae8f5094f041e10e65a3b6774d070"
 
 [[files]]
 file = "config/theoneprobe.cfg"
-hash = "38c74ab216127e6f4fb1a1c3c2bf1e091486817c4538bed7446f3e23ef0f26f2"
+hash = "27d09adebec4d717979fa1efd077f8f02ac2a1184f9c2ed654da8b616cd5b41b"
 
 [[files]]
 file = "config/twilightforest.cfg"
