@@ -1997,7 +1997,7 @@ hash = "4a2ab7fe28a3316458c21ff3a892aa45f97e4d8239e02ebed250d5b2d02afad4"
 
 [[files]]
 file = "scripts/herzegovina.zs"
-hash = "e6e980dcaf99678fb66989575bd129b55739badc0899f55d017edc1c0fa4b836"
+hash = "f91d26fe39370093a2792c601045e2f7dbda519b7034cac514e8223730a89b9f"
 
 [[files]]
 file = "scripts/locfixes.zs"
