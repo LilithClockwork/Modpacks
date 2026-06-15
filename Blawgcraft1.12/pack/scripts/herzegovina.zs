@@ -1,16 +1,14 @@
 print("Making Bosnia better");
-import mods.botania.PureDaisy;
-import mods.botania.ManaInfusion;
 # manas your thaumium
-ManaInfusion.removeRecipe(<botania:manaresource>);
-ManaInfusion.addInfusion(<botania:manaresource>, <ore:ingotThaumium>, 3000);
-ManaInfusion.removeRecipe(<botania:storage>);
-ManaInfusion.addInfusion(<botania:storage>, <ore:blockThaumium>, 27000);
+mods.botania.ManaInfusion.removeRecipe(<botania:manaresource>);
+mods.botania.ManaInfusion.addInfusion(<botania:manaresource>, <ore:ingotThaumium>, 3000);
+mods.botania.ManaInfusion.removeRecipe(<botania:storage>);
+mods.botania.ManaInfusion.addInfusion(<botania:storage>, <ore:blockThaumium>, 27000);
 # arcanes your livingrock
-PureDaisy.removeRecipe(<botania:livingrock>);
-PureDaisy.addRecipe(<thaumcraft:stone_arcane>, <botania:livingrock>);
-PureDaisy.removeRecipe(<botania:livingwood>);
-PureDaisy.addRecipe(<thaumcraft:log_greatwood>, <botania:livingwood>);
+mods.botania.PureDaisy.removeRecipe(<botania:livingrock>);
+mods.botania.PureDaisy.addRecipe(<thaumcraft:stone_arcane>, <botania:livingrock>);
+mods.botania.PureDaisy.removeRecipe(<botania:livingwood>);
+mods.botania.PureDaisy.addRecipe(<thaumcraft:log_greatwood>, <botania:livingwood>);
 # nitors your runic altar
 recipes.remove(<botania:runealtar>);
 recipes.addShaped(<botania:runealtar>,
