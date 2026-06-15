@@ -10,6 +10,6 @@ recipes.addShaped(<rftools:machine_frame>, [[<ore:ingotSteel>, <ore:dyeBlue>, <o
 
 recipes.addShaped(<thermalexpansion:frame>, [[<ore:ingotSteel>, <ore:blockGlassColorless>, <ore:ingotSteel>],[<ore:blockGlassColorless>, <ore:gearTin>, <ore:blockGlassColorless>], [<ore:ingotSteel>, <ore:blockGlassColorless>, <ore:ingotSteel>]]);
 
-mods.thermalexpansion.InductionSmelter.removeRecipe(<minecraft:iron_ingot>, <ore:dustCoal>*4);
+mods.thermalexpansion.InductionSmelter.removeRecipe(<minecraft:iron_ingot>, <thermalfoundation:material:768>*4);
 print("Tech mixed!");
 
