@@ -15,4 +15,4 @@ recipes.addShaped(<botania:runealtar>,
 [[<botania:livingrock>, <botania:livingrock>, <botania:livingrock>],
 [<botania:livingrock>, <ore:nitor>, <botania:livingrock>]]);
 
-print("everyone talks about bosnia but where's the herzegovina (bosnia recipes done)a");
+print("everyone talks about bosnia but where's the herzegovina (bosnia recipes done)");
