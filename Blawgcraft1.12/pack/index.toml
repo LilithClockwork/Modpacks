@@ -869,10 +869,6 @@ file = "config/jei/searchColors.cfg"
 hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
-file = "config/jei/worldSettings.cfg"
-hash = "8e7f744170c4efa3dcada825d9a8bdef52a1346e28a78406bf660e63c8e1ab03"
-
-[[files]]
 file = "config/jeresources/jeresources.cfg"
 hash = "89a554fa03284ed83867e2876bcebc7a2ff80e915d6bfa6938bda51d4894ea57"
 
