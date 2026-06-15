@@ -1081,6 +1081,10 @@ file = "config/theoneprobe.cfg"
 hash = "38c74ab216127e6f4fb1a1c3c2bf1e091486817c4538bed7446f3e23ef0f26f2"
 
 [[files]]
+file = "config/vintagefix.properties"
+hash = "1643468b146020289cd93d13554ece72044bbabf1f571bb9373531881bbf7ffb"
+
+[[files]]
 file = "config/witchery/entity_spawns.json"
 hash = "7bfff1fe3f4478c169ae0a384ff3cd463784e943a10694ca75554d9d929eb804"
 
