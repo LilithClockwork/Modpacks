@@ -1,5 +1,6 @@
 print("Making Bosnia better");
-import mods.botania;
+import mods.botania.PureDaisy;
+import mods.botania.ManaInfusion;
 # manas your thaumium
 ManaInfusion.removeRecipe(<botania:manaresource>);
 ManaInfusion.addInfusion(<botania:manaresource>, <ore:ingotThaumium>, 3000);
