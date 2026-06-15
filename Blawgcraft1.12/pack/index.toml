@@ -1987,6 +1987,22 @@ hash = "ebbdbac5720517899ba41ee36e75ab25c7ea3eabfd22a3e4f502446effa74f09"
 metafile = true
 
 [[files]]
+file = "resourcepacks/menu_tomfoolery/assets/minecraft/sounds.json"
+hash = "7a15719becbb241bc1aba5a73ae97d76aaecd74db110f1644570a900d6ab7658"
+
+[[files]]
+file = "resourcepacks/menu_tomfoolery/assets/minecraft/sounds/music/uhhh.ogg"
+hash = "71fd2ec1dfb60f7b20444c0a9280cebaa20684673da9791775941359ae5c52b4"
+
+[[files]]
+file = "resourcepacks/menu_tomfoolery/pack.mcmeta"
+hash = "3fd8147f35a3080d1f904e2ea23be1898721101bcd7cab83ae08a212710d3263"
+
+[[files]]
+file = "resourcepacks/menu_tomfoolery/pack.png"
+hash = "67a265015f4b76b941c6aeaef248ec3cb894e55f309a632ddc9013646d45139b"
+
+[[files]]
 file = "resourcepacks/thaummenu.pw.toml"
 hash = "412f8ed45af00951d6f0a236098478a209c9f20a6f0c539f2d293b1c28b37dea"
 metafile = true
