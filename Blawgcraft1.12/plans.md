@@ -6,10 +6,10 @@
 - ~~Manasteel to require thaumium to create~~
 - ~~Enchanted Fabric (thaumcraft) to require Mana String (Botania) to make~~
 - Lesser CCult Portal Spawn Egg Infusion: 1x Egg (Base), 4x Gold Nugget, 2x Void Seed, 1x Iron Sword, 1x Fire Charge, 50 Alienis, 50 Humanus, 50 Motus.
-- Overgrowth Seed Infusion Recipe (?)
+- ~~Overgrowth Seed Infusion Recipe (?)~~
 - ~~Livingrock to use Arcane Stone~~
 - ~~Livingwood to use Greatwood (?)~~
-- Runic Altar to have Nitor in place of Mana Pearl/Mana Diamond (?)
+- ~~Runic Altar to have Nitor in place of Mana Pearl/Mana Diamond (?)~~
 - Crucible Bosnia Rune Recipes, lockable behind obtaining one (?)
 
 ## Localizations
