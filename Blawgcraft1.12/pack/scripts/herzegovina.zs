@@ -15,5 +15,5 @@ recipes.addShaped(<botania:runealtar>,
 [[<botania:livingrock>, <botania:livingrock>, <botania:livingrock>],
 [<botania:livingrock>, <ore:nitor>, <botania:livingrock>]]);
 # Infuses your seed
-mods.thaumcraft.Infusion.registerRecipe("blawgcraft:overgrowth", "", <botania:overgrowthseed>, 20, [<aspect:aer>, <aspect:ignis>], <minecraft:wheat_seeds>, [<botania:fertilizer>, <roots:bark_wildwood>, <botania:fertilizer>, <roots:terra_spores>, <witchery:goddess_breath>, <roots:terra_spores>, <botania:fertilizer>, <roots:bark_wildwood>, <botania:fertilizer>, <roots:terra_spores>, <witchery:goddess_breath>, <roots:terra_spores>]);
+mods.thaumcraft.Infusion.registerRecipe("blawgcraft_overgrowth", "TT_INFUSED_CROPS", <botania:overgrowthseed>, 20, [<aspect:herba>*75, <aspect:victus>*60, <aspect:desiderium>*30, <aspect:praecantatio>*50], <minecraft:wheat_seeds>, [<roots:terra_spores>, <botania:fertilizer>, <roots:bark_wildwood>, <botania:fertilizer>, <roots:terra_spores>, <witchery:goddess_breath>, <roots:terra_spores>, <botania:fertilizer>, <roots:bark_wildwood>, <botania:fertilizer>, <roots:terra_spores>, <witchery:goddess_breath>]);
 print("everyone talks about bosnia but where's the herzegovina (bosnia recipes done)");
