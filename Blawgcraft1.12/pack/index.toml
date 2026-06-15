@@ -14,7 +14,7 @@ hash = "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "d4e6ed152dfddc672c00338052a3e3138b4cd17a67973b98eb2cd2074550a0cd"
+hash = "07b509d8c1bb233b1febf6578d51feac79d302bb4debfcc19bf9ccbca791260f"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
@@ -166,7 +166,7 @@ hash = "e508483e8a803419d2600e3135cd0ccb6ea71307e3b20ccefc7943cbde4e1b18"
 
 [[files]]
 file = "config/bibliocraft.cfg"
-hash = "d6f033e1cd074180b82906ef12e813e0ddd34cf00c27d32fdb0f57f857b79d7f"
+hash = "dea16cf4a81dd9ff66a832d5a609a533d0ae0aaf9a23fa2004a8c9c9638865ed"
 
 [[files]]
 file = "config/blockcraftery.cfg"
@@ -370,7 +370,7 @@ hash = "81d214d5ae7720acc3665048696ff98d8e33b145fddfb48a62efe552c5383ed8"
 
 [[files]]
 file = "config/forge.cfg"
-hash = "c642d286a0379b2aafd2d282a79239e58d32ac15cc25dfd08bab5747a5d85662"
+hash = "a00065038be598504b47be67ffbc1f7882e26aef752d55ffde3140933fc0394c"
 
 [[files]]
 file = "config/forgeChunkLoading.cfg"
@@ -946,7 +946,7 @@ hash = "d7bc152b73a63abff66084d96c8ba19af9e35f459054f21a8dd08308c4a1f8c3"
 
 [[files]]
 file = "config/opencomputers/settings.conf"
-hash = "e5ad303036cbc86a5e5ed73e72987b7fab0e40a6df1dc92aeea6ec5bcfb2bc42"
+hash = "e793ff3bdb861e2738b486889440796da63e2bb8e13da37a5127632ea6b5c35c"
 
 [[files]]
 file = "config/opencomputers/user.recipes"
@@ -1174,7 +1174,7 @@ hash = "4d45f2bc4cf99124ef481d34e47cff203ec083f5e5a233c10748185676a67089"
 
 [[files]]
 file = "config/wizardry.cfg"
-hash = "5099a03e391885a68c941c9d1210255ede3fbbefd266ff5b88eff32235597ca1"
+hash = "6f2293e8c0bd369f89da98f35cdab3c3341ad10da573bda3060098afc75a5b8a"
 
 [[files]]
 file = "config/wizardry/fire_recipes/devil_dust.json"
@@ -1434,7 +1434,7 @@ hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
 file = "config/xaero/minimap/client.cfg"
-hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+hash = "80c77d2c2882d29b5ae19be7588b19fd6e9ef6ef1a9b66feda121bde76943263"
 
 [[files]]
 file = "config/xaero/minimap/common.cfg"
@@ -1466,7 +1466,7 @@ hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
 file = "config/xaero/world-map/client.cfg"
-hash = "deece0fe0d29f2203a9699143a6209c451e91d7ecb799489c328b0d0fa31a90d"
+hash = "5becce9b6f4a7c83c4ffd6568562b81f613f14b9ea0455981478e42eb1aef1f5"
 
 [[files]]
 file = "config/xaero/world-map/common.cfg"
@@ -2004,4 +2004,4 @@ hash = "aebe4e58c12088b425e3c4ed7b659fbf1fc3d8295bf20286c66e463c7443008e"
 
 [[files]]
 file = "scripts/thaumcraftchanges.zs"
-hash = "070baf907903c5c523955de901961b7cc096244e2630fa51096a3b81a7e8c12b"
+hash = "85a095b4d3431c2e99191dfdb4820564fe42fc9585d7cbe4e96564bc27d3213e"
