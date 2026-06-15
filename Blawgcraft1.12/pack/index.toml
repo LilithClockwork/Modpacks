@@ -858,7 +858,7 @@ hash = "c7e2606d1600f6ddceb8473aaeaa34b95e23c75f74cd107999787aeeaabe833d"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
-hash = "5a27ceb4188e51905e0d6a2bc1248c70dd6cb5e6b5e690a9ffe00fc92bdfdc3e"
+hash = "329a5b1eca6bc8ad0d52e2dc32ed6c808d343a134a204dea0038b8de0b9383c9"
 
 [[files]]
 file = "config/jei/jei.cfg"
@@ -1997,7 +1997,7 @@ hash = "4a2ab7fe28a3316458c21ff3a892aa45f97e4d8239e02ebed250d5b2d02afad4"
 
 [[files]]
 file = "scripts/herzegovina.zs"
-hash = "c873076999b476e3a95a9c7481a3d88d10886c6326aae5f1e232022abeaedc84"
+hash = "e6e980dcaf99678fb66989575bd129b55739badc0899f55d017edc1c0fa4b836"
 
 [[files]]
 file = "scripts/locfixes.zs"
@@ -2009,4 +2009,4 @@ hash = "aebe4e58c12088b425e3c4ed7b659fbf1fc3d8295bf20286c66e463c7443008e"
 
 [[files]]
 file = "scripts/thaumcraftchanges.zs"
-hash = "85a095b4d3431c2e99191dfdb4820564fe42fc9585d7cbe4e96564bc27d3213e"
+hash = "dc0698e9f604c12e2f55be92113960e362105904c23e3b763afb4689a77a06bb"
