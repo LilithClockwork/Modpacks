@@ -126,7 +126,19 @@ hash = "27fdd990f5cc4d5f8da3a8cd189a26dc50158edfd32ac633a9b82729c33ad317"
 
 [[files]]
 file = "config/arcanearchives.cfg"
-hash = "895ef2bbdbbd9a8f92a2e928150365dc715f461c686b1262fbd1a198f9c2c32e"
+hash = "6176992355fddf25f4c593f372b3b7fe6b1028cd0bfd2ec87c2a9b7d1674dd46"
+
+[[files]]
+file = "config/aroma1997/aroma1997core.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/aroma1997/aromabackup.cfg"
+hash = "f21d9528f69720ea19f810464b0041548f0daa3850c1bab919d1c233e3551635"
+
+[[files]]
+file = "config/aroma1997/aromabackuprecovery.cfg"
+hash = "9f6d3c1dd724cd25540b171b665be028b492e53b1ca96fd600ef8fb068cc08af"
 
 [[files]]
 file = "config/astralsorcery.cfg"
