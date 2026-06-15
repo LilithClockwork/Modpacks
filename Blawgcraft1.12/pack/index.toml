@@ -1819,6 +1819,11 @@ hash = "137a6ccac31d56b11191c0b1682dad66dd2752bd20724af28c1c42c00bc58570"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "59c691bccb11a19c67a0272aae379c20d157d5240e7001b2d92d80bf555b88d0"
+metafile = true
+
+[[files]]
 file = "mods/opencomputers.pw.toml"
 hash = "8dea8c278137b0f42a815734c4b3a338ad18ea76e2ca08623ad3c332e5127eb5"
 metafile = true
@@ -1886,6 +1891,11 @@ metafile = true
 [[files]]
 file = "mods/stargate-network.pw.toml"
 hash = "5eb4ceb8627e9a020eaa9ad51826240f81d198b8b1c0fe1895604b5a48035a01"
+metafile = true
+
+[[files]]
+file = "mods/tails.pw.toml"
+hash = "73314417f1d2fa0cc2b9d0a4bccc989e1f9d27854ded9ac588285d187d2bb6ba"
 metafile = true
 
 [[files]]
