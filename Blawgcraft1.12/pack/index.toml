@@ -1984,7 +1984,7 @@ metafile = true
 
 [[files]]
 file = "scripts/aquamarinefixes.zs"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "780d3a7e82c0de0981fc80a808943c69aa8e0e62490bfa4319f447518d2fa3ce"
 
 [[files]]
 file = "scripts/busted_begone.zs"

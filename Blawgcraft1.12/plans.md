@@ -2,7 +2,7 @@
 
 ## Recipes
 - ~~Machine frames from thermal to require IE steel~~
-- Aquamarine block fixes
+- ~~Aquamarine block fixes~~
 - Manasteel to require thaumium to create
 - Enchanted Fabric (thaumcraft) to require Mana String (Botania) to make
 - Lesser CCult Portal Spawn Egg Infusion: 1x Egg (Base), 4x Gold Nugget, 2x Void Seed, 1x Iron Sword, 1x Fire Charge, 50 Alienis, 50 Humanus, 50 Motus.
