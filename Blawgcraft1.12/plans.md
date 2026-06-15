@@ -10,7 +10,7 @@
 - ~~Livingrock to use Arcane Stone~~
 - ~~Livingwood to use Greatwood (?)~~
 - ~~Runic Altar to have Nitor in place of Mana Pearl/Mana Diamond (?)~~
-- Crucible Bosnia Rune Recipes, lockable behind obtaining one (?)
+- ~~Crucible Bosnia Rune Recipes~~, lockable behind obtaining one (?)
 
 ## Localizations
 - ~~Rename either AS or Natural Pledge Aquamarine to a more thematically appropriate name (Astral or Wavetouched Aquamarine?)~~
