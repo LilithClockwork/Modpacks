@@ -11,6 +11,7 @@
 - ~~Livingwood to use Greatwood (?)~~
 - ~~Runic Altar to have Nitor in place of Mana Pearl/Mana Diamond (?)~~
 - ~~Crucible Bosnia Rune Recipes~~, lockable behind obtaining one (?)
+- Kill RFTools teleporters
 
 ## Localizations
 - ~~Rename either AS or Natural Pledge Aquamarine to a more thematically appropriate name (Astral or Wavetouched Aquamarine?)~~
@@ -20,5 +21,7 @@
 ## Configs
 - ???
 
-## Possible additional mods
-	
+## Additional mods
+- Morpheus
+- Angel Ring to Bauble
+- A gravestone mod maybe?
