@@ -18,7 +18,7 @@ hash = "07b509d8c1bb233b1febf6578d51feac79d302bb4debfcc19bf9ccbca791260f"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "577ae322038ef9b6e1c792d018a5bdb35d974bd37fb58a997f20d7f53b6336fc"
+hash = "485602c745f3bbecd1b993d339b2d5588273e4c164df4a2c6be5fe5a832988f8"
 
 [[files]]
 file = "config/Embersified.cfg"
@@ -138,7 +138,7 @@ hash = "6b07d912612fa348a3765283d9373a1a5b3459f2ac4721f56bdd0a0c0e8a4c94"
 
 [[files]]
 file = "config/astralsorcery/amulet_enchantments.cfg"
-hash = "d6ec824d1f020c537bab13d966cc8c28d3319dbdc83151bd940f54b94e2bc6cb"
+hash = "6fd87244c26aa2a8196645c22bc8c9d12d0816af4c1bf8496f42f436beb5abaf"
 
 [[files]]
 file = "config/astralsorcery/fluid_rarities.cfg"
@@ -862,7 +862,7 @@ hash = "329a5b1eca6bc8ad0d52e2dc32ed6c808d343a134a204dea0038b8de0b9383c9"
 
 [[files]]
 file = "config/jei/jei.cfg"
-hash = "1d065fac026ef95961f4a73de2d196ef3bfed144d3c46511c239f171ed3e7c25"
+hash = "41770bef9d3aa7b66bba3952d71e70de3d2d3afd60c3a345dfc874e680e99434"
 
 [[files]]
 file = "config/jei/searchColors.cfg"
@@ -1081,6 +1081,10 @@ file = "config/theoneprobe.cfg"
 hash = "38c74ab216127e6f4fb1a1c3c2bf1e091486817c4538bed7446f3e23ef0f26f2"
 
 [[files]]
+file = "config/twilightforest.cfg"
+hash = "fe1674d60b3d2106e156ca07a051403411931b35c557513ea742d5b1961618ac"
+
+[[files]]
 file = "config/vintagefix.properties"
 hash = "1643468b146020289cd93d13554ece72044bbabf1f571bb9373531881bbf7ffb"
 
@@ -1094,7 +1098,7 @@ hash = "855905ded6bff44635c0ad3ef8dae35d8563b79cf7d8dccd8731167b2fd1469b"
 
 [[files]]
 file = "config/witchery/integrations.json"
-hash = "335b361ee10ffc2240d4f3585df18f1860b2f3a53a1668ee87e157d1b4a770cb"
+hash = "64b79ce9c7b46529161cfb32cdebb846d68d81dbb98998a256ed4b48abc097a8"
 
 [[files]]
 file = "config/witchery/registry/alternate_forms.json"
@@ -1914,6 +1918,11 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.pw.toml"
 hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "7af0b8a8e634eab7ecd9e6401ce3c71d6ec1c2c5dae078dee5a526898f88c72c"
 metafile = true
 
 [[files]]
