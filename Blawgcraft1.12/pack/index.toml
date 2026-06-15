@@ -858,11 +858,11 @@ hash = "c7e2606d1600f6ddceb8473aaeaa34b95e23c75f74cd107999787aeeaabe833d"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
-hash = "4faf1045129337a2d179f5a5126ba6d6708c09ee66dbf8261776ee60f645d34d"
+hash = "5a27ceb4188e51905e0d6a2bc1248c70dd6cb5e6b5e690a9ffe00fc92bdfdc3e"
 
 [[files]]
 file = "config/jei/jei.cfg"
-hash = "acf43154a69c6cac517ca7afbfcda14bb58ba0a2c5bf9d0914b1f499bca0ec3e"
+hash = "1d065fac026ef95961f4a73de2d196ef3bfed144d3c46511c239f171ed3e7c25"
 
 [[files]]
 file = "config/jei/searchColors.cfg"
@@ -974,7 +974,7 @@ hash = "fa54e3c26941c45f922f180fa1819cc8e06c46a586f9eddc9e5f4538adff491a"
 
 [[files]]
 file = "config/rftools/rftools.cfg"
-hash = "2fb9da4131c8fec97561c437e6950d47d293b60d5a80b38a5029d653aa4b425e"
+hash = "c08111d0b7f5b5f8c8ee6407178cee15a3e50b29bb0f13f1dca3ac0bef576b30"
 
 [[files]]
 file = "config/roots/crops.cfg"
@@ -1983,9 +1983,21 @@ hash = "412f8ed45af00951d6f0a236098478a209c9f20a6f0c539f2d293b1c28b37dea"
 metafile = true
 
 [[files]]
+file = "scripts/aquamarinefixes.zs"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "scripts/busted_begone.zs"
+hash = "4a2ab7fe28a3316458c21ff3a892aa45f97e4d8239e02ebed250d5b2d02afad4"
+
+[[files]]
+file = "scripts/herzegovina.zs"
+hash = "bc408d40cb5a469371929085f98392bbcf050feac93cddf3513d28fa20343c7d"
+
+[[files]]
 file = "scripts/locfixes.zs"
 hash = "1ca1c988182a4611e4c524e17a1020c134c9b071fdf1d87e60997acefeaf7ede"
 
 [[files]]
 file = "scripts/steeled.zs"
-hash = "8d86542877ecf58a1f05340456611e98671fb546e6087668404ab166c8610baa"
+hash = "4bdb207e42045cdf0b0cb255f2dcda0fbecf63c0eefcddceca6ef9d820a9bf77"
