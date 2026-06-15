@@ -19,9 +19,10 @@
 - ~~Lexia Bosnia~~
 
 ## Configs
-- ???
+- RCH to work with roots
 
 ## Additional mods
 - Morpheus
 - Angel Ring to Bauble
+--RightClickHarvest
 - A gravestone mod maybe?
