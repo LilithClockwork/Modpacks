@@ -5,7 +5,7 @@
 - ~~Aquamarine block fixes~~
 - ~~Manasteel to require thaumium to create~~
 - ~~Enchanted Fabric (thaumcraft) to require Mana String (Botania) to make~~
-- Lesser CCult Portal Spawn Egg Infusion: 1x Egg (Base), 4x Gold Nugget, 2x Void Seed, 1x Iron Sword, 1x Fire Charge, 50 Alienis, 50 Humanus, 50 Motus.
+- ~~Lesser CCult Portal Spawn Egg Infusion: 1x Egg (Base), 4x Gold Nugget, 2x Void Seed, 1x Iron Sword, 1x Fire Charge, 50 Alienis, 50 Humanus, 50 Motus.~~
 - ~~Overgrowth Seed Infusion Recipe (?)~~
 - ~~Livingrock to use Arcane Stone~~
 - ~~Livingwood to use Greatwood (?)~~
