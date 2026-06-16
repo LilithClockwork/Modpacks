@@ -1,0 +1,13 @@
+name = "Refraction"
+filename = "refraction-1.12.2-1.9.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1875d221ceb3e6c53279c721d1e3d0d2a937ba47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2719063
+project-id = 253578

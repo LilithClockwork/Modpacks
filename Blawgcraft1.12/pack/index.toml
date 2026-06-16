@@ -1700,11 +1700,6 @@ hash = "d34b3c5793de971465f314cdd5d304aa8d0fc4ee253d3d86aefe3d8b62f3dd7c"
 metafile = true
 
 [[files]]
-file = "mods/forgelin-continuous.pw.toml"
-hash = "839ba004a7efe361012ad9cb26fa8bf11fe839a954dd58d1bfe30dabfcd13b03"
-metafile = true
-
-[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "157f6e6aa64ae6cf9da95be6b45dc54bf35c4e89e1c9f78866b1dc1821063b47"
 metafile = true
@@ -1770,8 +1765,8 @@ hash = "cea0823d3b224e7bfee140dce362f0321cfb689fa8aaf9d7095ccd244f2051b4"
 metafile = true
 
 [[files]]
-file = "mods/librarianlib-continuous.pw.toml"
-hash = "4d1f29cf1402d3f62c0ad05ca3cf2e4aeb1cbdf9ab2176409082550355cee520"
+file = "mods/librarianlib.pw.toml"
+hash = "c09ef7a87aaa6c9db80818c57236f08265aaf43b66177f138a0ae69b8c776893"
 metafile = true
 
 [[files]]
@@ -1905,8 +1900,8 @@ hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
 metafile = true
 
 [[files]]
-file = "mods/refraction-continuation.pw.toml"
-hash = "31b6133aafee1e7d53bd2f267ef7b32c67aed52a2c7ab8ccce3c7856e326cf8b"
+file = "mods/refraction.pw.toml"
+hash = "b8274759f1f40e30460d62255e7a9965e7c97b33812c068ec40da0f2e4aedc90"
 metafile = true
 
 [[files]]
@@ -1927,6 +1922,11 @@ metafile = true
 [[files]]
 file = "mods/rustic.pw.toml"
 hash = "44c607417a29295c8b6b90d08a9274e8acdc84b201d44d0c1ec424f84a10d9e3"
+metafile = true
+
+[[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
