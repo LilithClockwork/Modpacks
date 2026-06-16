@@ -393,6 +393,10 @@ file = "config/gbook_snapshot.cfg"
 hash = "49c314ca28895d8c303d903287acafa0c866a4aa7e45c2bedfe4f19868b33db3"
 
 [[files]]
+file = "config/gravestone.cfg"
+hash = "fa9654cb0044bfb256e993e7f2c7308f5b4dd2f5b4315f4c6c01490a50af1dc0"
+
+[[files]]
 file = "config/immersivecables.cfg"
 hash = "aa2b9221c7f8bda653c59759bb29e5767eef82d00752cc01fd69bfdb4b3eb77c"
 
@@ -1671,6 +1675,11 @@ metafile = true
 [[files]]
 file = "mods/forgelin-continuous.pw.toml"
 hash = "839ba004a7efe361012ad9cb26fa8bf11fe839a954dd58d1bfe30dabfcd13b03"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "157f6e6aa64ae6cf9da95be6b45dc54bf35c4e89e1c9f78866b1dc1821063b47"
 metafile = true
 
 [[files]]
