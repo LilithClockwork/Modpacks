@@ -14,7 +14,7 @@ recipes.remove(<botania:runealtar>);
 recipes.addShaped(<botania:runealtar>,
 [[<botania:livingrock>, <botania:livingrock>, <botania:livingrock>],
 [<botania:livingrock>, <ore:nitor>, <botania:livingrock>]]);
-recipes.removeByRecipeName("botania:fertilizer_dye")
-recipes.addShapeless("fertilizer_dye", <botania:fertilizer>, [<ore:dye>, <ore:dye>, <ore:dye>, <ore:dye>])
+recipes.removeByRecipeName("botania:fertilizer_dye");
+recipes.addShapeless("fertilizer_dye", <botania:fertilizer>, [<ore:dye>, <ore:dye>, <ore:dye>, <ore:dye>]);
 
 print("everyone talks about bosnia but where's the herzegovina (bosnia recipes done)");
