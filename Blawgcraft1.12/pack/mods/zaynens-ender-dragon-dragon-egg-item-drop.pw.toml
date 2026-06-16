@@ -1,0 +1,13 @@
+name = "Zaynen's Ender Dragon Dragon Egg Item Drop"
+filename = "zaynens_ender_dragon_dragon_egg_item_drop_mod_1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "822420e6cb301ed7ee61cc99dba430af838caa2a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4360442
+project-id = 815890

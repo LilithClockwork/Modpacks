@@ -2080,6 +2080,11 @@ hash = "50cf44513f7e4819aec2a6e5cc350d6665904a37ac10db0547dfbc9457b669c6"
 metafile = true
 
 [[files]]
+file = "mods/zaynens-ender-dragon-dragon-egg-item-drop.pw.toml"
+hash = "896562b879eb2159aff4d17757e85d0503e3de12b450c04994579981311885e3"
+metafile = true
+
+[[files]]
 file = "resourcepacks/magical-psideas.pw.toml"
 hash = "ebbdbac5720517899ba41ee36e75ab25c7ea3eabfd22a3e4f502446effa74f09"
 metafile = true
