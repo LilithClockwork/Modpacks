@@ -2090,7 +2090,7 @@ hash = "a457a33fb2e5ab50e1185f46574bee5821e8902c274c5ac7a1b1bed79d6d49e0"
 
 [[files]]
 file = "scripts/herzegovina.zs"
-hash = "e6e980dcaf99678fb66989575bd129b55739badc0899f55d017edc1c0fa4b836"
+hash = "18514fe9a219ca5ab42ff4094cee7ab7bf4761269ad246997bd0a5101921fc76"
 
 [[files]]
 file = "scripts/locfixes.zs"
