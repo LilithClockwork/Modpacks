@@ -2036,7 +2036,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizardry-mod.pw.toml"
-hash = "622ccbd2cddc5cbbededabdd795f425f9716931e643df1eb9c0034ff3f5bec67"
+hash = "71d40997afabe4e57eb6e5943fe854f967cd72f69623725bd912ba475eee5703"
 metafile = true
 
 [[files]]
