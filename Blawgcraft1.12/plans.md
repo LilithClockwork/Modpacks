@@ -11,7 +11,7 @@
 - ~~Livingwood to use Greatwood (?)~~
 - ~~Runic Altar to have Nitor in place of Mana Pearl/Mana Diamond (?)~~
 - ~~Crucible Bosnia Rune Recipes~~, lockable behind obtaining one (?)
-- Kill RFTools teleporters
+- ~~Kill RFTools teleporters~~
 - Floral Fertilizer dye oredict
 
 ## Localizations
