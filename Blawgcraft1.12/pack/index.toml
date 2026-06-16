@@ -1090,7 +1090,7 @@ hash = "a994b94d3440c3db609d72a378701d4c61dca67a394319ae4694f54e67e6a382"
 
 [[files]]
 file = "config/thaumicjei.cfg"
-hash = "ebad328b693b32ca53b23ead8106183257380c522ecd040c84846d0705f601fb"
+hash = "f191208cedaf0c19ccdbfb4ec58af40a317383f7ba1e4385dc43dc591aeb4faa"
 
 [[files]]
 file = "config/thaumicjei_itemstack_aspects.json"
