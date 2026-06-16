@@ -990,7 +990,7 @@ hash = "f151d267dfbe1362ad45b585032bc7f86a9f0ec9a98d8cb048d314932e61126c"
 
 [[files]]
 file = "config/quarrel.cfg"
-hash = "1671b4e455e6e3f86839215b607e47e7ecee963149ff89b69f0a75b4afd6831e"
+hash = "6166f4fed61862ea07a8d40ad6c915d5c400e496c22ca5188f4819200449f7e4"
 
 [[files]]
 file = "config/refraction.cfg"
