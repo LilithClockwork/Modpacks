@@ -8,7 +8,7 @@ mods.botania.ManaInfusion.addInfusion(<botania:storage>, <ore:blockThaumium>, 27
 mods.botania.PureDaisy.removeRecipe(<botania:livingrock>);
 mods.botania.PureDaisy.addRecipe(<thaumcraft:stone_arcane>, <botania:livingrock>);
 mods.botania.PureDaisy.removeRecipe(<botania:livingwood>);
-mods.botania.PureDaisy.addRecipe(<thaumcraft:log_greatwood>, <botania:livingwood>);
+mods.botania.PureDaisy.addRecipe(<thaumcraft:plank_greatwood>, <botania:livingwood>);
 # nitors your runic altar
 recipes.remove(<botania:runealtar>);
 recipes.addShaped(<botania:runealtar>,
