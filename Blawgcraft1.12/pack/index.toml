@@ -397,6 +397,10 @@ file = "config/gravestone.cfg"
 hash = "fa9654cb0044bfb256e993e7f2c7308f5b4dd2f5b4315f4c6c01490a50af1dc0"
 
 [[files]]
+file = "config/harvest_config.json"
+hash = "92e433c7e928f561beb3a313b62cf67f91018ea73f871c73e9200c39e8a6fcfd"
+
+[[files]]
 file = "config/immersivecables.cfg"
 hash = "aa2b9221c7f8bda653c59759bb29e5767eef82d00752cc01fd69bfdb4b3eb77c"
 
@@ -1890,6 +1894,11 @@ metafile = true
 [[files]]
 file = "mods/rustic.pw.toml"
 hash = "44c607417a29295c8b6b90d08a9274e8acdc84b201d44d0c1ec424f84a10d9e3"
+metafile = true
+
+[[files]]
+file = "mods/simpleharvest.pw.toml"
+hash = "423f26b5bc2b20dd4c3bd160ea1bea1bf10a1cb8ed805bcac4610c12f9087d1e"
 metafile = true
 
 [[files]]
