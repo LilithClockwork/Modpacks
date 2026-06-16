@@ -329,6 +329,10 @@ file = "config/extrautils2.cfg"
 hash = "f6ad40a058104f900c06f6a1bb2479fb72286922540ec457f722ea8eba97a5a7"
 
 [[files]]
+file = "config/flyringbaublemod.cfg"
+hash = "4f078b4b965f4c859fd99105034eb6b9ebd5b5c44ffed3a67552b7e1348747c2"
+
+[[files]]
 file = "config/forestry/apiculture.cfg"
 hash = "900bcf66c5814e3ca24fa46f46044b1a948e2ed68cc08e3d866174046673164b"
 
@@ -927,6 +931,10 @@ hash = "c3b897ecd08bf4cf0a29747d40f5a5326df8cff30e797c15e37a3161a0b8de68"
 [[files]]
 file = "config/modularui.cfg"
 hash = "c2b19d76e59ddb104fbca2e44c303d46dd24f31352268af0b7a700e822785e48"
+
+[[files]]
+file = "config/morpheus.cfg"
+hash = "e1f993fa873f58a31b8d272f345b18e5003ef3c4e6c2dd879d70aca99f8dc3be"
 
 [[files]]
 file = "config/mystgears.cfg"
@@ -1799,6 +1807,11 @@ metafile = true
 [[files]]
 file = "mods/modularui.pw.toml"
 hash = "027a9eae197ae58909414605234f08d9131d0d9beb1bbb35a1c6404578f32cff"
+metafile = true
+
+[[files]]
+file = "mods/morpheus.pw.toml"
+hash = "3800d2d04ee10b3455a7f8527672086440269ba7a5993f31f1b85edf886f787f"
 metafile = true
 
 [[files]]

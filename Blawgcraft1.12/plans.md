@@ -23,7 +23,7 @@
 - RCH to work with roots
 
 ## Additional mods
-- Morpheus
+- ~~Morpheus~~
 - ~~Angel Ring to Bauble~~
 - ~~RightClickHarvest~~
 - ~~A gravestone mod maybe?~~
