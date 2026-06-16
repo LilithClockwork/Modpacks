@@ -870,7 +870,7 @@ hash = "c7e2606d1600f6ddceb8473aaeaa34b95e23c75f74cd107999787aeeaabe833d"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
-hash = "329a5b1eca6bc8ad0d52e2dc32ed6c808d343a134a204dea0038b8de0b9383c9"
+hash = "7b2d0ed96d1086534dff533f76d4fac254ea4341d2a0cd35fb610496d243a579"
 
 [[files]]
 file = "config/jei/jei.cfg"
@@ -2050,7 +2050,7 @@ hash = "ee4a88d156629aff7df8ac89798f77eab6b42da21687ee8531288d4190e64bbd"
 
 [[files]]
 file = "scripts/busted_begone.zs"
-hash = "4a2ab7fe28a3316458c21ff3a892aa45f97e4d8239e02ebed250d5b2d02afad4"
+hash = "a457a33fb2e5ab50e1185f46574bee5821e8902c274c5ac7a1b1bed79d6d49e0"
 
 [[files]]
 file = "scripts/herzegovina.zs"
