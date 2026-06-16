@@ -12,6 +12,7 @@
 - ~~Runic Altar to have Nitor in place of Mana Pearl/Mana Diamond (?)~~
 - ~~Crucible Bosnia Rune Recipes~~, lockable behind obtaining one (?)
 - Kill RFTools teleporters
+- Floral Fertilizer dye oredict
 
 ## Localizations
 - ~~Rename either AS or Natural Pledge Aquamarine to a more thematically appropriate name (Astral or Wavetouched Aquamarine?)~~
