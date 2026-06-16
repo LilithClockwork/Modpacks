@@ -1810,6 +1810,11 @@ hash = "027a9eae197ae58909414605234f08d9131d0d9beb1bbb35a1c6404578f32cff"
 metafile = true
 
 [[files]]
+file = "mods/more-overlays.pw.toml"
+hash = "99d1fe22e1ddc58a0a43f64a18a4e06298ef76c9f7608f57a7f0cee0d64fecaa"
+metafile = true
+
+[[files]]
 file = "mods/morpheus.pw.toml"
 hash = "3800d2d04ee10b3455a7f8527672086440269ba7a5993f31f1b85edf886f787f"
 metafile = true
