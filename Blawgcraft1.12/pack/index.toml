@@ -1995,6 +1995,16 @@ hash = "52dc99469ff23aa1f25d0c363f4bd19e5bb0146b29ccaba359e7d17095dac871"
 metafile = true
 
 [[files]]
+file = "mods/thaumic-wonders-unofficial.pw.toml"
+hash = "01902873654cc1fa9098cc7ae02c5650c62d29eeb36e9cb85ca30a4bee85d9cc"
+metafile = true
+
+[[files]]
+file = "mods/thaumicapi.pw.toml"
+hash = "fdb82e19a79a84c30a40a2af3f41e7259b95fc094f107fa73b2aaca712f39a15"
+metafile = true
+
+[[files]]
 file = "mods/the-one-probe.pw.toml"
 hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
 metafile = true
