@@ -1532,6 +1532,11 @@ hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
 metafile = true
 
 [[files]]
+file = "mods/angel-ring-to-bauble.pw.toml"
+hash = "7700ade6401a69a6c66763fc5cb6ec8f1f70e7bab93ebfe15ee0652f02e3993b"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
 metafile = true

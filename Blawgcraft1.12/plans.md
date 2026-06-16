@@ -24,6 +24,6 @@
 
 ## Additional mods
 - Morpheus
-- Angel Ring to Bauble
+- ~~Angel Ring to Bauble~~
 - ~~RightClickHarvest~~
 - ~~A gravestone mod maybe?~~
