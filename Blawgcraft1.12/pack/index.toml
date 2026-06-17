@@ -1580,11 +1580,6 @@ hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
 
 [[files]]
-file = "mods/better-rerolling.pw.toml"
-hash = "c2482473662b4ba70897429c4bd7beb8c82ba2269055487e77154002cb5d8ac3"
-metafile = true
-
-[[files]]
 file = "mods/better-trading-menu.pw.toml"
 hash = "6f7918d33a38c789404181ad585e098c8c94430fa3aa1e6822e33e5fa0446a25"
 metafile = true
