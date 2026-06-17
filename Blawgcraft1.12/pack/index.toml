@@ -1555,11 +1555,6 @@ hash = "a4cd331969ff23c1c7fe42c126c41541f407c9f5aa71613cfbe2bea6a269f80f"
 metafile = true
 
 [[files]]
-file = "mods/arcane-archives.pw.toml"
-hash = "0f172097972b6d1be0cf645cd02a38350bd112df1bfe3f33249f06418f729c84"
-metafile = true
-
-[[files]]
 file = "mods/aroma1997core.pw.toml"
 hash = "e111fd8717b5a9143d41d53e50c7c16f80ab074d76e256094229070b942b4cd3"
 metafile = true
@@ -1582,6 +1577,16 @@ metafile = true
 [[files]]
 file = "mods/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
+metafile = true
+
+[[files]]
+file = "mods/better-rerolling.pw.toml"
+hash = "c2482473662b4ba70897429c4bd7beb8c82ba2269055487e77154002cb5d8ac3"
+metafile = true
+
+[[files]]
+file = "mods/better-trading-menu.pw.toml"
+hash = "6f7918d33a38c789404181ad585e098c8c94430fa3aa1e6822e33e5fa0446a25"
 metafile = true
 
 [[files]]
@@ -1790,6 +1795,11 @@ hash = "8a2475418ba406dacadf85f54d3623c1737227018bce273c3528907b5a09699d"
 metafile = true
 
 [[files]]
+file = "mods/metalchests.pw.toml"
+hash = "3c0f45fb0bfe6e224f3ebdc1af1b353a5d568705868fa9391ccea0d91b3d2491"
+metafile = true
+
+[[files]]
 file = "mods/mixin-booter.pw.toml"
 hash = "ad355300f200ceabaa960dcef945cdf94195f8944dbe42ada2db41e153f209dc"
 metafile = true
@@ -1925,6 +1935,11 @@ hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
+file = "mods/simple-storage-network.pw.toml"
+hash = "5cdc9bb2f110348042df78d1ebd70b945597b1a5bea237d16f63c67deae053ed"
+metafile = true
+
+[[files]]
 file = "mods/simpleharvest.pw.toml"
 hash = "423f26b5bc2b20dd4c3bd160ea1bea1bf10a1cb8ed805bcac4610c12f9087d1e"
 metafile = true
@@ -1942,6 +1957,11 @@ metafile = true
 [[files]]
 file = "mods/tails.pw.toml"
 hash = "73314417f1d2fa0cc2b9d0a4bccc989e1f9d27854ded9ac588285d187d2bb6ba"
+metafile = true
+
+[[files]]
+file = "mods/tbone.pw.toml"
+hash = "eb8542949d7896f81397ad13d6f6a67e1a0761dd019c97f614e508d04f9be791"
 metafile = true
 
 [[files]]
@@ -2027,6 +2047,16 @@ metafile = true
 [[files]]
 file = "mods/universal-tweaks.pw.toml"
 hash = "ced0b49bf34de3b86ef05cda61e53ea4eda999eabb5a302e8cfc1a544acb3e7e"
+metafile = true
+
+[[files]]
+file = "mods/villager-contracts.pw.toml"
+hash = "8692fcf08c1e82f40b9306d387f9b07834a5c81817d114e1b6f6184a96f7ec0b"
+metafile = true
+
+[[files]]
+file = "mods/villager-market.pw.toml"
+hash = "15fa00ae254b37d17d5b1a7efc6859ef493febd3898e4dd1cbc5cd4f1cd94cb5"
 metafile = true
 
 [[files]]

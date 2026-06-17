@@ -1,0 +1,13 @@
+name = "Villager Contracts"
+filename = "villagercontracts-1.12.2-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "404357d3ddd521e4be46d13d62bbb3fc2155762d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5481496
+project-id = 994251

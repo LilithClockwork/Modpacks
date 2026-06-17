@@ -1,0 +1,13 @@
+name = "Metal Chests"
+filename = "MetalChests-v6.1.0+mc1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ead9f82b0d391ea969df74d20f468f84db4b2d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2751488
+project-id = 290145

@@ -1,0 +1,13 @@
+name = "TBone"
+filename = "TBone-v1.6.8+mc1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a61c33787556340dd891288ab781dd10f3bc0e50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2748902
+project-id = 323527

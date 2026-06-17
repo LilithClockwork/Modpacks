@@ -1,0 +1,13 @@
+name = "Better Trading Menu"
+filename = "bettertradingmenu-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XCvK6199/versions/njZr6TgQ/bettertradingmenu-1.0.0.jar"
+hash-format = "sha512"
+hash = "a82f3ca325fcd4140f9ffd71c2c9a6a5af74cba2bec800d1b8d514fef19db1c3b6c84e43b5090e9f07dc629237eeb854300651a5bd403f82be7765294eb9eb25"
+
+[update]
+[update.modrinth]
+mod-id = "XCvK6199"
+version = "njZr6TgQ"
