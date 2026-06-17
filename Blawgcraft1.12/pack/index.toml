@@ -1525,7 +1525,7 @@ file = "config/xnet/xnet.cfg"
 hash = "083bebfc99d97312e71e07d00fc9e3344e8eda452390b872980154ebc1eeaafa"
 
 [[files]]
-file = "mods/1.12/Guidebook-1.12.2-2.9.1.s5.jar"
+file = "mods/1.12.2/Guidebook-1.12.2-2.9.1.s5.jar"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
