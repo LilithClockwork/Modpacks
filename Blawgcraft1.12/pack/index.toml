@@ -1779,11 +1779,6 @@ hash = "efef0408c2dd7268131c857073f5ef73d40bad359679b0f8016e1d68c06aab0f"
 metafile = true
 
 [[files]]
-file = "mods/magical-psi.pw.toml"
-hash = "623f3f1275a9188e506089b19ce2ecfc2113aa838e5a436af2d0ac6dc2efe029"
-metafile = true
-
-[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "46b6fe4b838212d19da58719e4782d0c54689f3cbec148921c41a3297f96caf6"
 metafile = true
@@ -2116,11 +2111,6 @@ metafile = true
 [[files]]
 file = "mods/zaynens-ender-dragon-dragon-egg-item-drop.pw.toml"
 hash = "896562b879eb2159aff4d17757e85d0503e3de12b450c04994579981311885e3"
-metafile = true
-
-[[files]]
-file = "resourcepacks/magical-psideas.pw.toml"
-hash = "ebbdbac5720517899ba41ee36e75ab25c7ea3eabfd22a3e4f502446effa74f09"
 metafile = true
 
 [[files]]
