@@ -42,7 +42,7 @@ hash = "dc3a3cfc274f4d5f3fa83d34f7da5271c2d19e7c8f438fe75934555834dc4d35"
 
 [[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
-hash = "7d3a2e8750093a9623d6e062694b549b4b96d2337885ef71808ebc2dba02e425"
+hash = "fb49a179fcf92f555713e237ccb5c31dd2ec020e214dd9d07f3d09942969e0fd"
 
 [[files]]
 file = "config/Universal Tweaks - General.cfg"
@@ -1634,6 +1634,11 @@ hash = "197949c14af1c110c380e62e1cbd735fcb46927a95e6b9d6bc8435646632870d"
 metafile = true
 
 [[files]]
+file = "mods/coin-of-flight.pw.toml"
+hash = "86bf4eba8f8eb13376337f1de5f504c123ad6cad82956d0fc6595b9b844b3609"
+metafile = true
+
+[[files]]
 file = "mods/configanytime.pw.toml"
 hash = "defd8d7b171bb90e9ae3cc60f8c5e863346f74f7c43d90fd2a1519cc9b0e7f5f"
 metafile = true
@@ -1779,11 +1784,6 @@ hash = "efef0408c2dd7268131c857073f5ef73d40bad359679b0f8016e1d68c06aab0f"
 metafile = true
 
 [[files]]
-file = "mods/magical-psi.pw.toml"
-hash = "623f3f1275a9188e506089b19ce2ecfc2113aa838e5a436af2d0ac6dc2efe029"
-metafile = true
-
-[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "46b6fe4b838212d19da58719e4782d0c54689f3cbec148921c41a3297f96caf6"
 metafile = true
@@ -1901,6 +1901,11 @@ metafile = true
 [[files]]
 file = "mods/redstone-flux.pw.toml"
 hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
+metafile = true
+
+[[files]]
+file = "mods/reforbidden-magic.pw.toml"
+hash = "91daff692de6edb227560418373ce8cdb74a7dc9228a303bdaf94d569f95aa77"
 metafile = true
 
 [[files]]
@@ -2119,9 +2124,12 @@ hash = "896562b879eb2159aff4d17757e85d0503e3de12b450c04994579981311885e3"
 metafile = true
 
 [[files]]
-file = "resourcepacks/magical-psideas.pw.toml"
-hash = "ebbdbac5720517899ba41ee36e75ab25c7ea3eabfd22a3e4f502446effa74f09"
-metafile = true
+file = "resourcepacks/menu_tomfoolery/assets/cof/lang/en_us.lang"
+hash = "3864563bd746ef5b6b277ae8ced1660d13ceafa3dd128747e16149b474c001bc"
+
+[[files]]
+file = "resourcepacks/menu_tomfoolery/assets/cof/textures/items/cof.png"
+hash = "9c8a9ddbb329ce75ad80aa1624b6dc29bf2f69b6ec9286eb652d3e2cc550dc27"
 
 [[files]]
 file = "resourcepacks/menu_tomfoolery/assets/minecraft/sounds.json"
@@ -2151,6 +2159,10 @@ hash = "ee4a88d156629aff7df8ac89798f77eab6b42da21687ee8531288d4190e64bbd"
 [[files]]
 file = "scripts/busted_begone.zs"
 hash = "a08b2545e3b026264c66c3303a360c8e6108942372f3d1a187cc252e3fb589db"
+
+[[files]]
+file = "scripts/coinoflight.zs"
+hash = "a60e6f5babeda6d9cce9f185c8281cc95be0bd5bcc4f22c65c23a096d47d99be"
 
 [[files]]
 file = "scripts/herzegovina.zs"
