@@ -1050,7 +1050,7 @@ hash = "9adac414a5f426e19f66d87290f9bd17475c1e2b21601822dd784fd9e1bc705f"
 
 [[files]]
 file = "config/sgcraft.cfg"
-hash = "ad8e347a6fffc7c0e969dd52f172c3cb372a0041a1a4efcbbd5943aa20f41471"
+hash = "bc8cee469aac085d353d7c164e878af17a3124073ba47c0497f144f287fa0bf1"
 
 [[files]]
 file = "config/soot.cfg"
