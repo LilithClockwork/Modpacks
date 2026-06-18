@@ -1609,6 +1609,11 @@ hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "a2e3b0d2d6a8aef09276fd1df1b308e20bed3fe695b2bf1043d927a7ffccf495"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
 metafile = true
@@ -1946,6 +1951,16 @@ metafile = true
 [[files]]
 file = "mods/stargate-network.pw.toml"
 hash = "5eb4ceb8627e9a020eaa9ad51826240f81d198b8b1c0fe1895604b5a48035a01"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "ff5a7d6fe7c70f7db36e33ceefc6936b382a572c35c9f6efc21c4cccbaaea362"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "20fbfee096c84c48ad427cc995e50d3e12531c67f86a120a679fba80864c5689"
 metafile = true
 
 [[files]]
