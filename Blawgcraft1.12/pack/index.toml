@@ -317,12 +317,20 @@ file = "config/ctm.cfg"
 hash = "7ddf0e7cd4bb1dc03e6201ab78a7f73f0e7ac2cbbdb615c44fa72df5db63ca89"
 
 [[files]]
+file = "config/cyclopscore.cfg"
+hash = "4c7820bee5a51a588fbacb4c330c33beb2bf51c446adbae9938089354cce9eec"
+
+[[files]]
 file = "config/dynaores.cfg"
 hash = "4b357adff338fd2ab61db6a821a1d761918ee47ac7e21a5f6c6724dc73f3cac8"
 
 [[files]]
 file = "config/embers.cfg"
 hash = "8f67d6f00ea5820c418f079dbd872a6dc474c6e3d767cbc8a0a83f02c0e8c2d9"
+
+[[files]]
+file = "config/everlastingabilities.cfg"
+hash = "f9ff15ea7c3a25e54268ea18b9ababb1109e84d46d57e7b6ab4514541d82c2ba"
 
 [[files]]
 file = "config/extrautils2.cfg"
@@ -1669,6 +1677,11 @@ hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
 metafile = true
 
 [[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "da33ce9b0a942dce4bfeef5f615d434ef191063b1c602fe236447c641122105b"
+metafile = true
+
+[[files]]
 file = "mods/dynaores.pw.toml"
 hash = "106e088c1d7d112f123ed26e3f72d5a78c4f4178852ca5b18cf0ccf385e299f5"
 metafile = true
@@ -1696,6 +1709,11 @@ metafile = true
 [[files]]
 file = "mods/endercore.pw.toml"
 hash = "f41bf1c7154b656b303822ea5fe596d4afc97c5712facf03c244d08ae9c129d3"
+metafile = true
+
+[[files]]
+file = "mods/everlastingabilities.pw.toml"
+hash = "166628b32228a601fc821a34cbdfedfd98c9487e651f9441bf4a38869e01c82a"
 metafile = true
 
 [[files]]
@@ -2165,10 +2183,6 @@ file = "scripts/busted_begone.zs"
 hash = "a08b2545e3b026264c66c3303a360c8e6108942372f3d1a187cc252e3fb589db"
 
 [[files]]
-file = "scripts/coinoflight.zs"
-hash = "a60e6f5babeda6d9cce9f185c8281cc95be0bd5bcc4f22c65c23a096d47d99be"
-
-[[files]]
 file = "scripts/herzegovina.zs"
 hash = "87d33f881a91ab297ae2ffad1a94c67c0bacce91503d934d31a9c3c980f72494"
 
@@ -2183,3 +2197,7 @@ hash = "aebe4e58c12088b425e3c4ed7b659fbf1fc3d8295bf20286c66e463c7443008e"
 [[files]]
 file = "scripts/thaumcraftchanges.zs"
 hash = "dc0698e9f604c12e2f55be92113960e362105904c23e3b763afb4689a77a06bb"
+
+[[files]]
+file = "scripts/totemoflight.zs"
+hash = "59989f2b6f6b454d81fcea8c4de318dabe55c3a45ef798538ad758496daea340"
