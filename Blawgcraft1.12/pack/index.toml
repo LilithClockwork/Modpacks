@@ -882,7 +882,7 @@ hash = "c7e2606d1600f6ddceb8473aaeaa34b95e23c75f74cd107999787aeeaabe833d"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
-hash = "d464d8348229dba1b2132aa3f79609c3a96e481df8bbaafb330107ec6d215e68"
+hash = "49487ed409c56996bf94a548b99d4dc88465ea858e277e88aa4a003828509ca1"
 
 [[files]]
 file = "config/jei/jei.cfg"
@@ -1103,6 +1103,10 @@ hash = "3162caf89c82d8aa6bfbb8bc372259aff4bae8f5094f041e10e65a3b6774d070"
 [[files]]
 file = "config/theoneprobe.cfg"
 hash = "27d09adebec4d717979fa1efd077f8f02ac2a1184f9c2ed654da8b616cd5b41b"
+
+[[files]]
+file = "config/tmel.cfg"
+hash = "a1f4b5793e1a30ff3c90cc1f497130077443f8a0fcad92e0fbc038cfc75cfe6b"
 
 [[files]]
 file = "config/twilightforest.cfg"
@@ -2054,6 +2058,11 @@ hash = "79a7197981768e1d9b23b5eacf22b2ac776d6322c1a4b1eafabd8a1d9c5c1400"
 metafile = true
 
 [[files]]
+file = "mods/too-many-efficiency-losses.pw.toml"
+hash = "0051c3b051dd94db2ce230cf78d0795ad4b2b17a7f4de12cf2915a79bba69369"
+metafile = true
+
+[[files]]
 file = "mods/universal-tweaks.pw.toml"
 hash = "ced0b49bf34de3b86ef05cda61e53ea4eda999eabb5a302e8cfc1a544acb3e7e"
 metafile = true
@@ -2164,13 +2173,13 @@ file = "scripts/locfixes.zs"
 hash = "1ca1c988182a4611e4c524e17a1020c134c9b071fdf1d87e60997acefeaf7ede"
 
 [[files]]
+file = "scripts/milled.zs"
+hash = "748060b406b71fc32334edaab442a5a833de8fa59b5ce43eeae6f6e7b8080dff"
+
+[[files]]
 file = "scripts/steeled.zs"
 hash = "aebe4e58c12088b425e3c4ed7b659fbf1fc3d8295bf20286c66e463c7443008e"
 
 [[files]]
 file = "scripts/thaumcraftchanges.zs"
 hash = "dc0698e9f604c12e2f55be92113960e362105904c23e3b763afb4689a77a06bb"
-
-[[files]]
-file = "scripts/totemoflight.zs"
-hash = "59989f2b6f6b454d81fcea8c4de318dabe55c3a45ef798538ad758496daea340"
