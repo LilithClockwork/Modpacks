@@ -1642,11 +1642,6 @@ hash = "197949c14af1c110c380e62e1cbd735fcb46927a95e6b9d6bc8435646632870d"
 metafile = true
 
 [[files]]
-file = "mods/coin-of-flight.pw.toml"
-hash = "86bf4eba8f8eb13376337f1de5f504c123ad6cad82956d0fc6595b9b844b3609"
-metafile = true
-
-[[files]]
 file = "mods/configanytime.pw.toml"
 hash = "defd8d7b171bb90e9ae3cc60f8c5e863346f74f7c43d90fd2a1519cc9b0e7f5f"
 metafile = true
