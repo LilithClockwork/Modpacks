@@ -2004,8 +2004,8 @@ hash = "7f3efb3e6ba215116c810f7239847a941961db13b6d0582eebc8e9f360c344ee"
 metafile = true
 
 [[files]]
-file = "mods/thaumic-energistics.pw.toml"
-hash = "66d7313d4759496e755f44db0b02e299e408ce70cfc83f4292328d814951b304"
+file = "mods/thaumic-energistics-extended-life.pw.toml"
+hash = "0d66fad6c64c7def75b402e0a329749ef508411b1c0808729a3dde6c87e91f22"
 metafile = true
 
 [[files]]
