@@ -317,20 +317,12 @@ file = "config/ctm.cfg"
 hash = "7ddf0e7cd4bb1dc03e6201ab78a7f73f0e7ac2cbbdb615c44fa72df5db63ca89"
 
 [[files]]
-file = "config/cyclopscore.cfg"
-hash = "4c7820bee5a51a588fbacb4c330c33beb2bf51c446adbae9938089354cce9eec"
-
-[[files]]
 file = "config/dynaores.cfg"
 hash = "4b357adff338fd2ab61db6a821a1d761918ee47ac7e21a5f6c6724dc73f3cac8"
 
 [[files]]
 file = "config/embers.cfg"
 hash = "8f67d6f00ea5820c418f079dbd872a6dc474c6e3d767cbc8a0a83f02c0e8c2d9"
-
-[[files]]
-file = "config/everlastingabilities.cfg"
-hash = "db4ebf0f217d3edad826011eff6f9d1545a2b22440b58cbf27a3bd29dd6bd0aa"
 
 [[files]]
 file = "config/extrautils2.cfg"
@@ -1672,11 +1664,6 @@ hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
 metafile = true
 
 [[files]]
-file = "mods/cyclops-core.pw.toml"
-hash = "da33ce9b0a942dce4bfeef5f615d434ef191063b1c602fe236447c641122105b"
-metafile = true
-
-[[files]]
 file = "mods/dynaores.pw.toml"
 hash = "106e088c1d7d112f123ed26e3f72d5a78c4f4178852ca5b18cf0ccf385e299f5"
 metafile = true
@@ -1704,11 +1691,6 @@ metafile = true
 [[files]]
 file = "mods/endercore.pw.toml"
 hash = "f41bf1c7154b656b303822ea5fe596d4afc97c5712facf03c244d08ae9c129d3"
-metafile = true
-
-[[files]]
-file = "mods/everlastingabilities.pw.toml"
-hash = "166628b32228a601fc821a34cbdfedfd98c9487e651f9441bf4a38869e01c82a"
 metafile = true
 
 [[files]]
