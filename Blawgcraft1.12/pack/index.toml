@@ -2092,10 +2092,6 @@ hash = "6acf78c6d7d81ab42ef4dc3e3bb53d6dd66c8f3ce6926f941b3889209c67c9fe"
 metafile = true
 
 [[files]]
-file = "mods/vintageremix-3.3.0.jar"
-hash = "7c12f59d767301b15b5e442ab479f857b4fa0e42990c362f3c945bf187604d68"
-
-[[files]]
 file = "mods/witchery-companion.pw.toml"
 hash = "6170ba6a0d6799830fffb27b8339a49719e0f0cf8288c980ef459d22b243c82e"
 metafile = true
