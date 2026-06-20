@@ -106,7 +106,7 @@ hash = "9134ec535a159f6f5775211048ff6c37dd8543d97a29327fa96ed7d7eb9a80a6"
 
 [[files]]
 file = "config/advRocketry/asteroidConfig.xml"
-hash = "26a8c4a8bb63dcf13cee4417fb19a794ff45ab1c0fe15d7c59849ef3d732209d"
+hash = "bc550dce1f9efbb66512836c25ce9baf371fedda14fd9fb469f8180a0dda01b7"
 
 [[files]]
 file = "config/advRocketry/oreConfig.xml"
