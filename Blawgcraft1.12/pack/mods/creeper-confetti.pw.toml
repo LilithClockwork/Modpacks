@@ -1,0 +1,13 @@
+name = "Creeper Confetti"
+filename = "creeperconfetti-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "278d8ac70e35238c775e8cf71d01d23609f6c6aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2506542
+project-id = 222548
