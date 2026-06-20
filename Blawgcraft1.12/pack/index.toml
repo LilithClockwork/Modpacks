@@ -2451,7 +2451,7 @@ hash = "ee4a88d156629aff7df8ac89798f77eab6b42da21687ee8531288d4190e64bbd"
 
 [[files]]
 file = "scripts/busted_begone.zs"
-hash = "a08b2545e3b026264c66c3303a360c8e6108942372f3d1a187cc252e3fb589db"
+hash = "4d4253a98e0222d84c27f029f5eeb615dd9bf6b88688e6d5ba5433409dbe707f"
 
 [[files]]
 file = "scripts/herzegovina.zs"
