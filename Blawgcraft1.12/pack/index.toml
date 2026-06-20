@@ -2182,6 +2182,10 @@ file = "scripts/milled.zs"
 hash = "748060b406b71fc32334edaab442a5a833de8fa59b5ce43eeae6f6e7b8080dff"
 
 [[files]]
+file = "scripts/miscfixes.zs"
+hash = "b327a6e2b62de007fb617d83c0e22b94b8cf384e58207bf28c17ca9c44bfc54a"
+
+[[files]]
 file = "scripts/steeled.zs"
 hash = "aebe4e58c12088b425e3c4ed7b659fbf1fc3d8295bf20286c66e463c7443008e"
 
