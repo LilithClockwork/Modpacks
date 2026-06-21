@@ -1165,6 +1165,10 @@ file = "config/jaopca/modules/tiny_dust.toml"
 hash = "c7e2606d1600f6ddceb8473aaeaa34b95e23c75f74cd107999787aeeaabe833d"
 
 [[files]]
+file = "config/jei/customCollapsibleGroups.json"
+hash = "416b6a9f1a9772e8d99cb51367618cac83a7feb34b60e02e652b585485fd7218"
+
+[[files]]
 file = "config/jei/itemBlacklist.cfg"
 hash = "49487ed409c56996bf94a548b99d4dc88465ea858e277e88aa4a003828509ca1"
 

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "custom:c4884bef",
+    "displayName": "AE2 Facades",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "appliedenergistics2:facade:*"
+    ]
+  },
+  {
+    "id": "custom:4172f7e7",
+    "displayName": "Buildcraft Facades",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "buildcraftsilicon:plug_facade:*"
+    ]
+  }
+]
