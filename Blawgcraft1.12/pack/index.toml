@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
-hash = "e5a59e83866461320ed742d049d14cafbd35dc1f753835b56e75f92605cb3d84"
+hash = "12ed08162039d1d914b61dc3c922a0bfa7bf8df6b0a05a2cc6e6c3a125f63582"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
