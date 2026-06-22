@@ -238,7 +238,7 @@ hash = "07116a3cf1df83c06967713c1c450e0453a3d21a6d162fff2a62dc838ceccc92"
 
 [[files]]
 file = "config/buildcraft/main.cfg"
-hash = "93254074ee0ea51f8e284156bdeb85b52436d2decb948e1f01d52f1373a56f06"
+hash = "fb3b59d77ba7ae105c1657d3943ab81fe814da63d970d6b3fe448392f9d9215c"
 
 [[files]]
 file = "config/buildcraft/objects.cfg"
