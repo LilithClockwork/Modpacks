@@ -345,6 +345,10 @@ file = "config/craftingtweaks.cfg"
 hash = "d5cc56165a845284f9473124b3dc3f0eaf493a2ded2d6d2be8f279e3f1f9d3d3"
 
 [[files]]
+file = "config/creeperconfetti.cfg"
+hash = "8fd4452e52c7c6c41c6f8789ad1bfc03271f003f5984920268f90d2432f18891"
+
+[[files]]
 file = "config/ctm.cfg"
 hash = "7ddf0e7cd4bb1dc03e6201ab78a7f73f0e7ac2cbbdb615c44fa72df5db63ca89"
 
