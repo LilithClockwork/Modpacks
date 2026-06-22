@@ -102,7 +102,7 @@ hash = "1f6dbcf7857f2481c5fdab362596705da5cc0d0d07eb8ee2d85bfae1c0f241f0"
 
 [[files]]
 file = "config/advRocketry/advancedRocketry.cfg"
-hash = "9134ec535a159f6f5775211048ff6c37dd8543d97a29327fa96ed7d7eb9a80a6"
+hash = "34c88f914c98f898a7c308e17c1d55bf029d3a4fc772c19fe298348d128abe5c"
 
 [[files]]
 file = "config/advRocketry/asteroidConfig.xml"
@@ -111,6 +111,10 @@ hash = "bc550dce1f9efbb66512836c25ce9baf371fedda14fd9fb469f8180a0dda01b7"
 [[files]]
 file = "config/advRocketry/oreConfig.xml"
 hash = "16373fc73f5185845db08203cbdde009fca95f2b1787a47a10b47a3ce72ccfcd"
+
+[[files]]
+file = "config/advRocketry/planetDefs.xml"
+hash = "601cc0cae4ec80e72eeffdf0bebbc6318342b93692924cc2c6a44435a468835b"
 
 [[files]]
 file = "config/advanced_smelter.cfg"
