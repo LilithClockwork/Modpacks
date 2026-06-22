@@ -205,6 +205,34 @@ file = "config/botaniajei.cfg"
 hash = "bff094a18f774fad91f13b57036219a45d85475b105312c8ac75feedd1570bff"
 
 [[files]]
+file = "config/brandon3055/BrandonsCore.cfg"
+hash = "1c166af3c1adf4e9e3f29de526c5468a5c5dd54be0b5fd074dcd39605c1a52a5"
+
+[[files]]
+file = "config/brandon3055/Custom Fusion Recipe Info.txt"
+hash = "2fc2fcae04de5d51c5eea00a421073228ca23284accf37442321d05b54291f75"
+
+[[files]]
+file = "config/brandon3055/DraconicEvolution.cfg"
+hash = "6889d614355abe97723d925533260b01207434fbdf00d1a4d1306d15955a3210"
+
+[[files]]
+file = "config/brandon3055/ProjectIntelligence/ModDocs/Draconic Evolution/draconicevolution-en_US.xml"
+hash = "e63266e39f45f965526208a3bbb00b5113686b0706347c7151c2d1a2a24726dd"
+
+[[files]]
+file = "config/brandon3055/ProjectIntelligence/manifest.json"
+hash = "9c7a5e458ce75f08278aac7c353c3946d9dc3c74e24bf644f739bb158a4f9e94"
+
+[[files]]
+file = "config/brandon3055/ProjectIntelligence/options.json"
+hash = "bc8659948a2d386656992219bd99ac2349eeef9d89156200dfe78cd7c38706c1"
+
+[[files]]
+file = "config/brandon3055/ProjectIntelligence/projectintelligence.xml"
+hash = "d44b0ab387ed2281c599566ab22206d8351f441a09ba19792baeb8c53eba516b"
+
+[[files]]
 file = "config/buildcraft/detailed.properties"
 hash = "07116a3cf1df83c06967713c1c450e0453a3d21a6d162fff2a62dc838ceccc92"
 
@@ -1891,6 +1919,11 @@ hash = "96de7b241688c8771621d9ef3dcc4eb565389739196334bea745043375dbc03a"
 metafile = true
 
 [[files]]
+file = "mods/brandons-core.pw.toml"
+hash = "e6b6f908221c3ff5f821e0f648a05f037ca100a242fb3d0122db9209e2531be2"
+metafile = true
+
+[[files]]
 file = "mods/buildcraft.pw.toml"
 hash = "ae1102797c17f21f72397fb6e66145c1d7427fa825e771e9c314ba66b8682f54"
 metafile = true
@@ -1958,6 +1991,11 @@ metafile = true
 [[files]]
 file = "mods/ctm.pw.toml"
 hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.pw.toml"
+hash = "ea5eb18a73607ffd04a198f654209855fb831abdcac646fe2411d77b0dea2f9e"
 metafile = true
 
 [[files]]
@@ -2456,6 +2494,10 @@ hash = "ee4a88d156629aff7df8ac89798f77eab6b42da21687ee8531288d4190e64bbd"
 [[files]]
 file = "scripts/busted_begone.zs"
 hash = "5689609995af4e653d8ab422c3c0a46195fb877eb67df89413cbfed03055a62c"
+
+[[files]]
+file = "scripts/decrystals.zs"
+hash = "c42e64065dfe56aaa0016bd58511e99ae695b42a0e34ba36e1f7bc37bff89e26"
 
 [[files]]
 file = "scripts/herzegovina.zs"
