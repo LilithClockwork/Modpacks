@@ -2203,6 +2203,11 @@ hash = "59c691bccb11a19c67a0272aae379c20d157d5240e7001b2d92d80bf555b88d0"
 metafile = true
 
 [[files]]
+file = "mods/omniwand.pw.toml"
+hash = "acd86ee99a8b21fe7ca0c7bd50ded3459a287807aade7b2a3bf79424ed038383"
+metafile = true
+
+[[files]]
 file = "mods/opencomputers.pw.toml"
 hash = "8dea8c278137b0f42a815734c4b3a338ad18ea76e2ca08623ad3c332e5127eb5"
 metafile = true
