@@ -1918,6 +1918,11 @@ hash = "e2f14e48f0d4b8de42d67ba71c65c2b50e0e5ee9c823f825087c9bd5da11d5b4"
 metafile = true
 
 [[files]]
+file = "mods/blood-magic.pw.toml"
+hash = "632549542eb039887281a603cf4141f2dde6522d4c547d6ba7ea3fd2d88fbac1"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "96de7b241688c8771621d9ef3dcc4eb565389739196334bea745043375dbc03a"
 metafile = true
@@ -2040,6 +2045,11 @@ metafile = true
 [[files]]
 file = "mods/forestry-community-edition.pw.toml"
 hash = "d34b3c5793de971465f314cdd5d304aa8d0fc4ee253d3d86aefe3d8b62f3dd7c"
+metafile = true
+
+[[files]]
+file = "mods/guide-api.pw.toml"
+hash = "84a12cab793e2dd8eeec5971365bc25b4a0ba26a4f6489d908a31f30162c9fdc"
 metafile = true
 
 [[files]]
