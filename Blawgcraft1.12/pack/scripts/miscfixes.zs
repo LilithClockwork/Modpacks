@@ -8,4 +8,6 @@ recipes.removeByRecipeName("appliedenergistics2:network/blocks/quantum_ring");
 
 recipes.addShaped("network/blocks/quantum_ring", <appliedenergistics2:quantum_ring>, [[<ore:ingotIron>, <appliedenergistics2:material:22>, <ore:ingotIron>], [<appliedenergistics2:material:24>, <appliedenergistics2:energy_cell>, <appliedenergistics2:part:36>], [<ore:ingotIron>, <appliedenergistics2:material:22>, <ore:ingotIron>]]);
 
+recipes.addShaped("damnitcharset", <minecraft:chest> * 4 [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, null, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
 
+recipes.addShapeless("damnitcharset2", <minecraft:chest> [<ore:chestWood>]);

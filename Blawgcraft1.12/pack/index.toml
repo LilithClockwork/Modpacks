@@ -2597,7 +2597,7 @@ hash = "748060b406b71fc32334edaab442a5a833de8fa59b5ce43eeae6f6e7b8080dff"
 
 [[files]]
 file = "scripts/miscfixes.zs"
-hash = "11fc307cd8fbeae9aa50d498335e9295350c09830dc9f73718c8616bcf044ed9"
+hash = "eb0af0af6a65ae6d0ce8074641c65ad613b77b9ce2cd04140a9a521eb2f78b81"
 
 [[files]]
 file = "scripts/steeled.zs"
