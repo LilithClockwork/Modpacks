@@ -1929,6 +1929,36 @@ hash = "ae1102797c17f21f72397fb6e66145c1d7427fa825e771e9c314ba66b8682f54"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "c8ee6b8c56dc5011af73660d1063d881376b6d66b7b3686c6ab73edb6f598c14"
+metafile = true
+
+[[files]]
+file = "mods/charset-immersion.pw.toml"
+hash = "ac88e024e4f036cd41b2435677d6fb9daede6ad717e6d1fa5395bcb579c8fdd1"
+metafile = true
+
+[[files]]
+file = "mods/charset-lib.pw.toml"
+hash = "80c5b46a51c4c09b1971ab37b4e269eaa843f6e6a3d4949ba52ca34de1304b06"
+metafile = true
+
+[[files]]
+file = "mods/charset-storage-barrels.pw.toml"
+hash = "c3e6fd3e2d1021605d6be15ddc2071518737d0e2026b883daac5c9dd7f60e250"
+metafile = true
+
+[[files]]
+file = "mods/charset-storage-chests.pw.toml"
+hash = "0c909b17589cded9663e92f926c28ba59baa7c442b72bcd82ea5cb8553dfe969"
+metafile = true
+
+[[files]]
+file = "mods/charset-storage-tanks.pw.toml"
+hash = "ed5d6422389338d8617c4d7cbf7bee8b642f2d18b7e77ba51331b80b7d9c07c8"
+metafile = true
+
+[[files]]
 file = "mods/chisel.pw.toml"
 hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
 metafile = true
@@ -2039,6 +2069,16 @@ hash = "d34b3c5793de971465f314cdd5d304aa8d0fc4ee253d3d86aefe3d8b62f3dd7c"
 metafile = true
 
 [[files]]
+file = "mods/friendly-chests.pw.toml"
+hash = "52c440157ab42293c8206201ad7f0490aedb86b1d8e9717fa9f8dde68b1c7404"
+metafile = true
+
+[[files]]
+file = "mods/gumobtainium.pw.toml"
+hash = "35f42d7f7f11e661ae83da8f7c27bb50fde49fbca188ba5e7b34a83aa44c3d56"
+metafile = true
+
+[[files]]
 file = "mods/had-enough-items.pw.toml"
 hash = "5d262b1e18771e14cc27f46bae7bafed288ac0a8b2fe9b50f0968cfd9ac2fc92"
 metafile = true
@@ -2066,6 +2106,11 @@ metafile = true
 [[files]]
 file = "mods/incorporeal.pw.toml"
 hash = "c038882886b96730f18f5d0460d1c8609e2b728955e25d9a6399043e7b8ab5bf"
+metafile = true
+
+[[files]]
+file = "mods/infraredstone.pw.toml"
+hash = "277488ee97aa029ee0cb2ae0ec689bba1fca377c4fc51f1821339258dee7ce2e"
 metafile = true
 
 [[files]]
@@ -2341,6 +2386,11 @@ metafile = true
 [[files]]
 file = "mods/thaumic-jei.pw.toml"
 hash = "3dcef794ba03565241c47808178e96d5d8db82d4a9659d2a340fd3966ac107a1"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-one-probe.pw.toml"
+hash = "58013b76f966597840672c7ae06be779bc0e72a82994892e881dcfaf08e9db1d"
 metafile = true
 
 [[files]]

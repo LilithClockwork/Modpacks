@@ -1,0 +1,13 @@
+name = "Thaumic One Probe"
+filename = "thaumic-one-probe-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9999dde62ad282b0deeb480156356c1f6854fe97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3447883
+project-id = 523198

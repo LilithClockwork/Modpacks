@@ -1,0 +1,13 @@
+name = "Charset Storage - Tanks"
+filename = "Charset-StorageTanks-0.5.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f44c38d5ed5efe468a913b84bb308405e8c992f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2744996
+project-id = 284530
