@@ -1296,8 +1296,8 @@
             <oceanBlock>minecraft:lava</oceanBlock>
         </planet>
     </star>
-    <star blackHole="true" name="The Maw" numGasGiants="0" numPlanets="0" size="1.0" temp="500" x="0" y="100">
-        <planet DIMID="82" name="The Doomed">
+    <star blackHole="false" name="Alykitt" numGasGiants="0" numPlanets="0" size="1.0" temp="120" x="75" y="200">
+        <planet DIMID="82" name="Alykitt 82">
             <isKnown>false</isKnown>
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>0.8,0.87187386,0.80971324</skyColor>
@@ -1305,17 +1305,191 @@
             <orbitalDistance>155</orbitalDistance>
             <orbitalTheta>80</orbitalTheta>
             <orbitalPhi>-155</orbitalPhi>
-            <retrograde>true</retrograde>
-            <avgTemperature>50</avgTemperature>
+            <retrograde>false</retrograde>
+            <avgTemperature>246</avgTemperature>
             <rotationalPeriod>10923</rotationalPeriod>
             <atmosphereDensity>14</atmosphereDensity>
             <generateCraters>true</generateCraters>
-            <generateCaves>trademark</generateCaves>
+            <generateCaves>false</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <biomeIds>advancedrocketry:moon;30,advancedrocketry:moondark;30</biomeIds>
+            <planet DIMID="83" name="Alykitt 82: 0">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.9287266,0.8494564</skyColor>
+                <gravitationalMultiplier>72</gravitationalMultiplier>
+                <orbitalDistance>166</orbitalDistance>
+                <orbitalTheta>192</orbitalTheta>
+                <orbitalPhi>50</orbitalPhi>
+                <retrograde>false</retrograde>
+                <avgTemperature>238</avgTemperature>
+                <rotationalPeriod>64300</rotationalPeriod>
+                <atmosphereDensity>13</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateCaves>false</generateCaves>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <biomeIds>advancedrocketry:moon;30,advancedrocketry:moondark;30</biomeIds>
+            </planet>
+        </planet>
+        <planet DIMID="74" name="Alykitt 74">
+            <isKnown>false</isKnown>
+            <GasGiant>true</GasGiant>
+            <gas>nitrogen</gas>
+            <gas>oxygen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>120</gravitationalMultiplier>
+            <orbitalDistance>196</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <avgTemperature>284</avgTemperature>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>177</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateCaves>false</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <planet DIMID="75" name="Alykitt 74: 0">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.842131,0.94039905</skyColor>
+                <gravitationalMultiplier>82</gravitationalMultiplier>
+                <orbitalDistance>183</orbitalDistance>
+                <orbitalTheta>340</orbitalTheta>
+                <orbitalPhi>-113</orbitalPhi>
+                <retrograde>false</retrograde>
+                <avgTemperature>226</avgTemperature>
+                <rotationalPeriod>43528</rotationalPeriod>
+                <atmosphereDensity>21</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateCaves>false</generateCaves>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <biomeIds>advancedrocketry:moon;30,advancedrocketry:moondark;30</biomeIds>
+            </planet>
+            <planet DIMID="76" name="Alykitt 74: 1">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.77585137,0.83447355</skyColor>
+                <gravitationalMultiplier>75</gravitationalMultiplier>
+                <orbitalDistance>148</orbitalDistance>
+                <orbitalTheta>349</orbitalTheta>
+                <orbitalPhi>107</orbitalPhi>
+                <retrograde>false</retrograde>
+                <avgTemperature>252</avgTemperature>
+                <rotationalPeriod>56888</rotationalPeriod>
+                <atmosphereDensity>18</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateCaves>false</generateCaves>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <biomeIds>advancedrocketry:moon;30,advancedrocketry:moondark;30</biomeIds>
+            </planet>
+        </planet>
+        <planet DIMID="77" name="Alykitt 77">
+            <isKnown>false</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>0.8,0.98936605,0.0</skyColor>
+            <gravitationalMultiplier>130</gravitationalMultiplier>
+            <orbitalDistance>6</orbitalDistance>
+            <orbitalTheta>194</orbitalTheta>
+            <orbitalPhi>-94</orbitalPhi>
+            <retrograde>false</retrograde>
+            <avgTemperature>1672</avgTemperature>
+            <rotationalPeriod>10923</rotationalPeriod>
+            <atmosphereDensity>198</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateCaves>false</generateCaves>
             <generateVolcanos>true</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>true</generateGeodes>
-            <biomeIds>advancedrocketry:moon;30,advancedrocketry:moondark;30</biomeIds>
+            <biomeIds>minecraft:jungle_hills;30,advancedrocketry:marsh;30,buildcraftenergy:oil_ocean;30,twilightforest:twilight_lake;30,minecraft:jungle;30</biomeIds>
+            <oceanBlock>minecraft:lava</oceanBlock>
+        </planet>
+        <planet DIMID="78" name="Alykitt 78">
+            <isKnown>false</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>0.8,0.83358157,0.2938912</skyColor>
+            <gravitationalMultiplier>130</gravitationalMultiplier>
+            <orbitalDistance>77</orbitalDistance>
+            <orbitalTheta>260</orbitalTheta>
+            <orbitalPhi>-10</orbitalPhi>
+            <retrograde>false</retrograde>
+            <avgTemperature>393</avgTemperature>
+            <rotationalPeriod>10923</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateCaves>false</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>true</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <biomeIds>twilightforest:firefly_forest;30,minecraft:forest_hills;30,advancedrocketry:oceanspires;30,minecraft:desert_hills;30,minecraft:swampland;10</biomeIds>
+            <planet DIMID="80" name="Alykitt 78: 1">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.7619498,0.8816694</skyColor>
+                <gravitationalMultiplier>45</gravitationalMultiplier>
+                <orbitalDistance>173</orbitalDistance>
+                <orbitalTheta>45</orbitalTheta>
+                <orbitalPhi>328</orbitalPhi>
+                <retrograde>false</retrograde>
+                <avgTemperature>233</avgTemperature>
+                <rotationalPeriod>263374</rotationalPeriod>
+                <atmosphereDensity>18</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateCaves>false</generateCaves>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <biomeIds>advancedrocketry:moon;30,advancedrocketry:moondark;30</biomeIds>
+            </planet>
+            <planet DIMID="81" name="Alykitt 78: 2">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.7134168,0.6753067</skyColor>
+                <gravitationalMultiplier>82</gravitationalMultiplier>
+                <orbitalDistance>113</orbitalDistance>
+                <orbitalTheta>214</orbitalTheta>
+                <orbitalPhi>-87</orbitalPhi>
+                <retrograde>false</retrograde>
+                <avgTemperature>288</avgTemperature>
+                <rotationalPeriod>43528</rotationalPeriod>
+                <atmosphereDensity>19</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateCaves>false</generateCaves>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <biomeIds>advancedrocketry:moon;30,advancedrocketry:moondark;30</biomeIds>
+            </planet>
+            <planet DIMID="79" name="Alykitt 78: 0">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.55383754,0.68428785</skyColor>
+                <gravitationalMultiplier>74</gravitationalMultiplier>
+                <orbitalDistance>119</orbitalDistance>
+                <orbitalTheta>137</orbitalTheta>
+                <orbitalPhi>6</orbitalPhi>
+                <retrograde>false</retrograde>
+                <avgTemperature>281</avgTemperature>
+                <rotationalPeriod>59226</rotationalPeriod>
+                <atmosphereDensity>21</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateCaves>false</generateCaves>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <biomeIds>advancedrocketry:moon;30,advancedrocketry:moondark;30</biomeIds>
             </planet>
         </planet>
     </star>
+    <star blackHole="true" name="BlorgsBane" numGasGiants="0" numPlanets="0" size="1.0" temp="100" x="-100" y="0"/>
 </galaxy>

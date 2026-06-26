@@ -102,7 +102,7 @@ hash = "1f6dbcf7857f2481c5fdab362596705da5cc0d0d07eb8ee2d85bfae1c0f241f0"
 
 [[files]]
 file = "config/advRocketry/advancedRocketry.cfg"
-hash = "34c88f914c98f898a7c308e17c1d55bf029d3a4fc772c19fe298348d128abe5c"
+hash = "f6dac4b9f3644405985c11511e1104fd7f8585b821c1a72b22538cf72f3c48ed"
 
 [[files]]
 file = "config/advRocketry/asteroidConfig.xml"
@@ -114,7 +114,7 @@ hash = "16373fc73f5185845db08203cbdde009fca95f2b1787a47a10b47a3ce72ccfcd"
 
 [[files]]
 file = "config/advRocketry/planetDefs.xml"
-hash = "601cc0cae4ec80e72eeffdf0bebbc6318342b93692924cc2c6a44435a468835b"
+hash = "0114ed7ff55524c74f75903a81c49f6b852c9de87f3aa6dee570e6c4807a5199"
 
 [[files]]
 file = "config/advanced_smelter.cfg"
@@ -2589,7 +2589,7 @@ hash = "87d33f881a91ab297ae2ffad1a94c67c0bacce91503d934d31a9c3c980f72494"
 
 [[files]]
 file = "scripts/locfixes.zs"
-hash = "1ca1c988182a4611e4c524e17a1020c134c9b071fdf1d87e60997acefeaf7ede"
+hash = "be5f21ecdb66cdb3b2d592c9b6a9ab72533bc5420d7c5a5eccab79a62d2b9b7a"
 
 [[files]]
 file = "scripts/milled.zs"

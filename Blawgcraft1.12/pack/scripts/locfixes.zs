@@ -27,7 +27,9 @@ game.setLocalization("en_us", "botania.page.banners0","&1Botania&0 adds &415&0 n
 game.setLocalization("en_us", "botania.subtitle.lexiconOpen","Lexica Bosnia opens");
 game.setLocalization("en_us", "botania.subtitle.lexiconPage","Lexica Bosnia page turns");
 
-#Dilithium
+#AdvRoc
 game.setLocalization("en_us", "material.Dilithium.name","Dilithium");
+game.setLocalization("en_us", "item.battery.0.name", "Battery");
+game.setLocalization("en_us", "item.battery.1.name", "Advanced Battery");
 
 print("Localizations fixed!");
