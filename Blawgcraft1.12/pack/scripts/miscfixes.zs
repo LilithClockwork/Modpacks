@@ -10,4 +10,4 @@ recipes.addShaped("network/blocks/quantum_ring", <appliedenergistics2:quantum_ri
 
 recipes.addShaped("damnitcharset", <minecraft:chest> * 4, [[<ore:logWood>, <ore:logWood>, <ore:logWood>],[<ore:logWood>, null, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
 
-recipes.addShapeless("damnitcharset2", <minecraft:chest> [<ore:chestWood>]);
+recipes.addShapeless("damnitcharsettwo", <minecraft:chest> * 4, [<ore:chestWood>, <ore:chestWood>, <ore:chestWood>, <ore:chestWood>]);

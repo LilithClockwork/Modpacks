@@ -66,7 +66,7 @@ hash = "3e5ab4f1d4a293d6405d1c18621bb52aa1f64c71f48ca762d835665a47203e92"
 
 [[files]]
 file = "config/advRocketry/Crystallizer.xml"
-hash = "8237ba90732053ef20881dc2e47adab156914d259d3af4de3f66efd829551811"
+hash = "bc7e105a351ee76575e5259ba7ed5d945aa91d6197c0bb38ea9c2832f144f025"
 
 [[files]]
 file = "config/advRocketry/CuttingMachine.xml"
@@ -2580,6 +2580,10 @@ file = "scripts/busted_begone.zs"
 hash = "5689609995af4e653d8ab422c3c0a46195fb877eb67df89413cbfed03055a62c"
 
 [[files]]
+file = "scripts/crystalcrushing.zs"
+hash = "cdf714cc16c036f261cbd01a78f0615ec01b03a0ddd12d901d9f28be16793c6b"
+
+[[files]]
 file = "scripts/decrystals.zs"
 hash = "35280443aa2ed60d4e886ea691d8fc593778c14920c7c64c32b9bb7d428b3bf7"
 
@@ -2597,7 +2601,7 @@ hash = "748060b406b71fc32334edaab442a5a833de8fa59b5ce43eeae6f6e7b8080dff"
 
 [[files]]
 file = "scripts/miscfixes.zs"
-hash = "d8dcba890900820aac144d7a5d094953aeb7d9bef14b8ce544ff1bebe095755c"
+hash = "9c49675414908fb1a310405aa3b799eef51fd3827d9cd8ef0a23a7c8afc7c270"
 
 [[files]]
 file = "scripts/steeled.zs"
