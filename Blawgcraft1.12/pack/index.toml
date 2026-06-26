@@ -1943,6 +1943,11 @@ hash = "c8ee6b8c56dc5011af73660d1063d881376b6d66b7b3686c6ab73edb6f598c14"
 metafile = true
 
 [[files]]
+file = "mods/chameleon.pw.toml"
+hash = "305815006195c0647af38ea5d8c03cd6c652c77bf975e3e967b754bc3b9ac569"
+metafile = true
+
+[[files]]
 file = "mods/charset-immersion.pw.toml"
 hash = "ac88e024e4f036cd41b2435677d6fb9daede6ad717e6d1fa5395bcb579c8fdd1"
 metafile = true
@@ -2355,6 +2360,11 @@ metafile = true
 [[files]]
 file = "mods/stargate-network.pw.toml"
 hash = "5eb4ceb8627e9a020eaa9ad51826240f81d198b8b1c0fe1895604b5a48035a01"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "1976cfb3222e1f141aa56af5824be673771a9db93b49c7e48fa2cca3f58aef02"
 metafile = true
 
 [[files]]
