@@ -1,0 +1,13 @@
+name = "Immersive Intelligence"
+filename = "immersiveintelligence-0.3.1-dev4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f9c576e3d81c51c321029d5172f7ebd1ce6caac6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8191055
+project-id = 344344
