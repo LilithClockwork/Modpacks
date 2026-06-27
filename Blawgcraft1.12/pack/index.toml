@@ -2581,7 +2581,7 @@ hash = "5689609995af4e653d8ab422c3c0a46195fb877eb67df89413cbfed03055a62c"
 
 [[files]]
 file = "scripts/crystalcrushing.zs"
-hash = "cdf714cc16c036f261cbd01a78f0615ec01b03a0ddd12d901d9f28be16793c6b"
+hash = "4035b955284ab7d4082710e4ab8aeac8e79f57e9c5cc873c0370e743e1827e98"
 
 [[files]]
 file = "scripts/decrystals.zs"
