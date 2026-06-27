@@ -146,7 +146,7 @@ hash = "9f6d3c1dd724cd25540b171b665be028b492e53b1ca96fd600ef8fb068cc08af"
 
 [[files]]
 file = "config/astralsorcery.cfg"
-hash = "1cd3234b370dc9024d9279f723fa9895825bae8cc41b327f1e7cffac905e136f"
+hash = "6cf91fc2acf9978cbe75a2d0b982f56b6b162ece22dbb67aef8e4ff9d859ed78"
 
 [[files]]
 file = "config/astralsorcery/aevitas_ore_perk.cfg"
