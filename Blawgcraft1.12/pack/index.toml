@@ -1903,6 +1903,11 @@ hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
 
 [[files]]
+file = "mods/bdlib.pw.toml"
+hash = "d89dd31193a74be6ea9fce495bb85ee31028ea299c1d2d0741607c0347ef2127"
+metafile = true
+
+[[files]]
 file = "mods/better-trading-menu.pw.toml"
 hash = "6f7918d33a38c789404181ad585e098c8c94430fa3aa1e6822e33e5fa0446a25"
 metafile = true
@@ -2085,6 +2090,11 @@ metafile = true
 [[files]]
 file = "mods/friendly-chests.pw.toml"
 hash = "52c440157ab42293c8206201ad7f0490aedb86b1d8e9717fa9f8dde68b1c7404"
+metafile = true
+
+[[files]]
+file = "mods/gendustry.pw.toml"
+hash = "466b15cefb457971c6b7c3f8c351c22abeb0bfd6baaba60e5b3d3159910fb3ff"
 metafile = true
 
 [[files]]
