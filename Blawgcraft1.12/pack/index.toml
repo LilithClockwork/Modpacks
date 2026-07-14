@@ -129,6 +129,10 @@ file = "config/appleskin.cfg"
 hash = "27fdd990f5cc4d5f8da3a8cd189a26dc50158edfd32ac633a9b82729c33ad317"
 
 [[files]]
+file = "config/aquaacrobatics.cfg"
+hash = "b2dc4be6dcc745a422b567d406ce4aeaa010c93ee4e37e21c706e9974b017092"
+
+[[files]]
 file = "config/arcanearchives.cfg"
 hash = "6176992355fddf25f4c593f372b3b7fe6b1028cd0bfd2ec87c2a9b7d1674dd46"
 
@@ -1875,6 +1879,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "c9711625615d000b33b2c8d2136cefb187933cdd2cfe798a6bcbc3d888cf051d"
+metafile = true
+
+[[files]]
+file = "mods/aqua-acrobatics.pw.toml"
+hash = "a4cd331969ff23c1c7fe42c126c41541f407c9f5aa71613cfbe2bea6a269f80f"
 metafile = true
 
 [[files]]
